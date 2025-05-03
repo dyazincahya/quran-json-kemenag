@@ -1,0 +1,340 @@
+[
+    {
+        "id": 6147,
+        "surah_id": 100,
+        "ayah": 1,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+        "kitabah": "وَالْعٰدِيٰتِ ضَبْحًاۙ ",
+        "latin": "Wal-‘ādiyāti ḍabḥā(n). ",
+        "arabic_words": [
+            "وَالْعٰدِيٰتِ",
+            "ضَبْحًاۙ"
+        ],
+        "translation": "Demi kuda-kuda perang yang berlari kencang terengah-engah,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6148,
+        "surah_id": 100,
+        "ayah": 2,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+        "kitabah": "فَالْمُوْرِيٰتِ قَدْحًاۙ",
+        "latin": "Fal-mūriyāti qadḥā(n).",
+        "arabic_words": [
+            "فَالْمُوْرِيٰتِ",
+            "قَدْحًاۙ"
+        ],
+        "translation": "yang memercikkan bunga api (dengan entakan kakinya),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6149,
+        "surah_id": 100,
+        "ayah": 3,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+        "kitabah": "فَالْمُغِيْرٰتِ صُبْحًاۙ",
+        "latin": "Fal-mugīrāti ṣubḥā(n).",
+        "arabic_words": [
+            "فَالْمُغِيْرٰتِ",
+            "صُبْحًاۙ"
+        ],
+        "translation": "yang menyerang (dengan tiba-tiba) pada waktu pagi",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6150,
+        "surah_id": 100,
+        "ayah": 4,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+        "kitabah": "فَاَثَرْنَ بِهٖ نَقْعًاۙ",
+        "latin": "Fa'aṡarna bihī naq‘ā(n).",
+        "arabic_words": [
+            "فَاَثَرْنَ",
+            "بِهٖ",
+            "نَقْعًاۙ"
+        ],
+        "translation": "sehingga menerbangkan debu,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6151,
+        "surah_id": 100,
+        "ayah": 5,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+        "kitabah": "فَوَسَطْنَ بِهٖ جَمْعًاۙ",
+        "latin": "Fawasaṭna bihī jam‘ā(n).",
+        "arabic_words": [
+            "فَوَسَطْنَ",
+            "بِهٖ",
+            "جَمْعًاۙ"
+        ],
+        "translation": "lalu menyerbu ke tengah-tengah kumpulan musuh,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6152,
+        "surah_id": 100,
+        "ayah": 6,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+        "kitabah": "اِنَّ الْاِنْسَانَ لِرَبِّهٖ لَكَنُوْدٌ ۚ",
+        "latin": "Innal-insāna lirabbihī lakanūd(un).",
+        "arabic_words": [
+            "اِنَّ",
+            "الْاِنْسَانَ",
+            "لِرَبِّهٖ",
+            "لَكَنُوْدٌ ۚ"
+        ],
+        "translation": "sesungguhnya manusia itu sangatlah ingkar kepada Tuhannya. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6153,
+        "surah_id": 100,
+        "ayah": 7,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+        "kitabah": "وَاِنَّهٗ عَلٰى ذٰلِكَ لَشَهِيْدٌۚ",
+        "latin": "Wa innahū ‘alā żālika lasyahīd(un).",
+        "arabic_words": [
+            "وَاِنَّهٗ",
+            "عَلٰى",
+            "ذٰلِكَ",
+            "لَشَهِيْدٌۚ"
+        ],
+        "translation": "Sesungguhnya dia benar-benar menjadi saksi atas hal itu (keingkarannya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6154,
+        "surah_id": 100,
+        "ayah": 8,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+        "kitabah": "وَاِنَّهٗ لِحُبِّ الْخَيْرِ لَشَدِيْدٌ ۗ",
+        "latin": "Wa innahū liḥubbil-khairi lasyadīd(un).",
+        "arabic_words": [
+            "وَاِنَّهٗ",
+            "لِحُبِّ",
+            "الْخَيْرِ",
+            "لَشَدِيْدٌ ۗ"
+        ],
+        "translation": "Sesungguhnya cintanya pada harta benar-benar berlebihan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6155,
+        "surah_id": 100,
+        "ayah": 9,
+        "page": 599,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+        "kitabah": "۞ اَفَلَا يَعْلَمُ اِذَا بُعْثِرَ مَا فِى الْقُبُوْرِۙ",
+        "latin": "Afalā ya‘lamu iżā bu‘ṡira mā fil-qubūr(i).",
+        "arabic_words": [
+            "۞",
+            "اَفَلَا",
+            "يَعْلَمُ",
+            "اِذَا",
+            "بُعْثِرَ",
+            "مَا",
+            "فِى",
+            "الْقُبُوْرِۙ"
+        ],
+        "translation": "Maka, tidakkah dia mengetahui (apa yang akan dialaminya) apabila dikeluarkan apa yang ada di dalam kubur",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6156,
+        "surah_id": 100,
+        "ayah": 10,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+        "kitabah": "وَحُصِّلَ مَا فِى الصُّدُوْرِۙ",
+        "latin": "Wa ḥuṣṣila mā fiṣ-ṣudūr(i).",
+        "arabic_words": [
+            "وَحُصِّلَ",
+            "مَا",
+            "فِى",
+            "الصُّدُوْرِۙ"
+        ],
+        "translation": "dan ditampakkan apa yang tersimpan di dalam dada?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6157,
+        "surah_id": 100,
+        "ayah": 11,
+        "page": 600,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+        "kitabah": "اِنَّ رَبَّهُمْ بِهِمْ يَوْمَىِٕذٍ لَّخَبِيْرٌ ࣖ",
+        "latin": "Inna rabbahum bihim yauma'iżil lakhabīr(un).",
+        "arabic_words": [
+            "اِنَّ",
+            "رَبَّهُمْ",
+            "بِهِمْ",
+            "يَوْمَىِٕذٍ",
+            "لَّخَبِيْرٌ ࣖ"
+        ],
+        "translation": "Sesungguhnya Tuhan mereka pada hari itu benar-benar Maha Teliti terhadap (keadaan) mereka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 100,
+            "arabic": " العٰديٰت",
+            "latin": "Al-‘Ādiyāt",
+            "transliteration": "Al-‘Adiyat",
+            "translation": "Kuda Perang Yang Berlari Kencang",
+            "num_ayah": 11,
+            "page": 599,
+            "location": "Makkiyah"
+        }
+    }
+]

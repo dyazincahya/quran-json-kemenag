@@ -1,0 +1,588 @@
+[
+    {
+        "id": 6107,
+        "surah_id": 96,
+        "ayah": 1,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+        "kitabah": "اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ",
+        "latin": "Iqra' bismi rabbikal-lażī khalaq(a).",
+        "arabic_words": [
+            "اِقْرَأْ",
+            "بِاسْمِ",
+            "رَبِّكَ",
+            "الَّذِيْ",
+            "خَلَقَۚ"
+        ],
+        "translation": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan!",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6108,
+        "surah_id": 96,
+        "ayah": 2,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+        "kitabah": "خَلَقَ الْاِنْسَانَ مِنْ عَلَقٍۚ",
+        "latin": "Khalaqal-insāna min ‘alaq(in).",
+        "arabic_words": [
+            "خَلَقَ",
+            "الْاِنْسَانَ",
+            "مِنْ",
+            "عَلَقٍۚ"
+        ],
+        "translation": "Dia menciptakan manusia dari segumpal darah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6109,
+        "surah_id": 96,
+        "ayah": 3,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+        "kitabah": "اِقْرَأْ وَرَبُّكَ الْاَكْرَمُۙ",
+        "latin": "Iqra' wa rabbukal-akram(u).",
+        "arabic_words": [
+            "اِقْرَأْ",
+            "وَرَبُّكَ",
+            "الْاَكْرَمُۙ"
+        ],
+        "translation": "Bacalah! Tuhanmulah Yang Maha Mulia,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6110,
+        "surah_id": 96,
+        "ayah": 4,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+        "kitabah": "الَّذِيْ عَلَّمَ بِالْقَلَمِۙ",
+        "latin": "Allażī ‘allama bil-qalam(i).",
+        "arabic_words": [
+            "الَّذِيْ",
+            "عَلَّمَ",
+            "بِالْقَلَمِۙ"
+        ],
+        "translation": "yang mengajar (manusia) dengan pena.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6111,
+        "surah_id": 96,
+        "ayah": 5,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+        "kitabah": "عَلَّمَ الْاِنْسَانَ مَا لَمْ يَعْلَمْۗ",
+        "latin": "‘Allamal-insāna mā lam ya‘lam.",
+        "arabic_words": [
+            "عَلَّمَ",
+            "الْاِنْسَانَ",
+            "مَا",
+            "لَمْ",
+            "يَعْلَمْۗ"
+        ],
+        "translation": "Dia mengajarkan manusia apa yang tidak diketahuinya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6112,
+        "surah_id": 96,
+        "ayah": 6,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+        "kitabah": "كَلَّآ اِنَّ الْاِنْسَانَ لَيَطْغٰىٓ ۙ",
+        "latin": "Kallā innal-insāna layaṭgā.",
+        "arabic_words": [
+            "كَلَّآ",
+            "اِنَّ",
+            "الْاِنْسَانَ",
+            "لَيَطْغٰىٓ ۙ"
+        ],
+        "translation": "Sekali-kali tidak! Sesungguhnya manusia itu benar-benar melampaui batas",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6113,
+        "surah_id": 96,
+        "ayah": 7,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+        "kitabah": "اَنْ رَّاٰهُ اسْتَغْنٰىۗ",
+        "latin": "Ar ra'āhustagnā.",
+        "arabic_words": [
+            "اَنْ",
+            "رَّاٰهُ",
+            "اسْتَغْنٰىۗ"
+        ],
+        "translation": "ketika melihat dirinya serba berkecukupan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6114,
+        "surah_id": 96,
+        "ayah": 8,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+        "kitabah": "اِنَّ اِلٰى رَبِّكَ الرُّجْعٰىۗ",
+        "latin": "Inna ilā rabbikar-ruj‘ā.",
+        "arabic_words": [
+            "اِنَّ",
+            "اِلٰى",
+            "رَبِّكَ",
+            "الرُّجْعٰىۗ"
+        ],
+        "translation": "Sesungguhnya hanya kepada Tuhanmulah tempat kembali(-mu).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6115,
+        "surah_id": 96,
+        "ayah": 9,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+        "kitabah": "اَرَاَيْتَ الَّذِيْ يَنْهٰىۙ",
+        "latin": "Ara'aital-lażī yanhā.",
+        "arabic_words": [
+            "اَرَاَيْتَ",
+            "الَّذِيْ",
+            "يَنْهٰىۙ"
+        ],
+        "translation": "Tahukah kamu tentang orang yang melarang",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6116,
+        "surah_id": 96,
+        "ayah": 10,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "عَبْدًا اِذَا صَلّٰىۗ",
+        "kitabah": "عَبْدًا اِذَا صَلّٰىۗ",
+        "latin": "‘Abdan iżā ṣallā.",
+        "arabic_words": [
+            "عَبْدًا",
+            "اِذَا",
+            "صَلّٰىۗ"
+        ],
+        "translation": "seorang hamba ketika dia melaksanakan salat?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6117,
+        "surah_id": 96,
+        "ayah": 11,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+        "kitabah": "اَرَاَيْتَ اِنْ كَانَ عَلَى الْهُدٰىٓۙ",
+        "latin": "Ara'aita in kāna ‘alal-hudā.",
+        "arabic_words": [
+            "اَرَاَيْتَ",
+            "اِنْ",
+            "كَانَ",
+            "عَلَى",
+            "الْهُدٰىٓۙ"
+        ],
+        "translation": "Bagaimana pendapatmu kalau terbukti dia berada di dalam kebenaran",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6118,
+        "surah_id": 96,
+        "ayah": 12,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+        "kitabah": "اَوْ اَمَرَ بِالتَّقْوٰىۗ",
+        "latin": "Au amara bit-taqwā. ",
+        "arabic_words": [
+            "اَوْ",
+            "اَمَرَ",
+            "بِالتَّقْوٰىۗ"
+        ],
+        "translation": "atau dia menyuruh bertakwa (kepada Allah)?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6119,
+        "surah_id": 96,
+        "ayah": 13,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+        "kitabah": "اَرَاَيْتَ اِنْ كَذَّبَ وَتَوَلّٰىۗ",
+        "latin": "Ara'aita in każżaba wa tawallā.",
+        "arabic_words": [
+            "اَرَاَيْتَ",
+            "اِنْ",
+            "كَذَّبَ",
+            "وَتَوَلّٰىۗ"
+        ],
+        "translation": "Bagaimana pendapatmu kalau dia mendustakan (kebenaran) dan berpaling (dari keimanan)?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6120,
+        "surah_id": 96,
+        "ayah": 14,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+        "kitabah": "اَلَمْ يَعْلَمْ بِاَنَّ اللّٰهَ يَرٰىۗ",
+        "latin": "Alam ya‘lam bi'annallāha yarā.",
+        "arabic_words": [
+            "اَلَمْ",
+            "يَعْلَمْ",
+            "بِاَنَّ",
+            "اللّٰهَ",
+            "يَرٰىۗ"
+        ],
+        "translation": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6121,
+        "surah_id": 96,
+        "ayah": 15,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+        "kitabah": "كَلَّا لَىِٕنْ لَّمْ يَنْتَهِ ەۙ لَنَسْفَعًاۢ بِالنَّاصِيَةِۙ",
+        "latin": "Kallā la'il lam yantah(i), lanasfa‘am bin-nāṣiyah(ti).",
+        "arabic_words": [
+            "كَلَّا",
+            "لَىِٕنْ",
+            "لَّمْ",
+            "يَنْتَهِ",
+            "ەۙ",
+            "لَنَسْفَعًاۢ",
+            "بِالنَّاصِيَةِۙ"
+        ],
+        "translation": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian), niscaya Kami tarik ubun-ubunnya (ke dalam neraka),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6122,
+        "surah_id": 96,
+        "ayah": 16,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+        "kitabah": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍۚ",
+        "latin": "Nāṣiyatin kāżibatin khāṭi'ah(tin).",
+        "arabic_words": [
+            "نَاصِيَةٍ",
+            "كَاذِبَةٍ",
+            "خَاطِئَةٍۚ"
+        ],
+        "translation": "(yaitu) ubun-ubun orang yang mendustakan (kebenaran) dan durhaka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6123,
+        "surah_id": 96,
+        "ayah": 17,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَلْيَدْعُ نَادِيَهٗۙ",
+        "kitabah": "فَلْيَدْعُ نَادِيَهٗۙ",
+        "latin": "Falyad‘u nādiyah(ū).",
+        "arabic_words": [
+            "فَلْيَدْعُ",
+            "نَادِيَهٗۙ"
+        ],
+        "translation": "Biarlah dia memanggil golongannya (untuk menolongnya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6124,
+        "surah_id": 96,
+        "ayah": 18,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "سَنَدْعُ الزَّبَانِيَةَۙ",
+        "kitabah": "سَنَدْعُ الزَّبَانِيَةَۙ",
+        "latin": "Sanad‘uz-zabāniyah(ta).",
+        "arabic_words": [
+            "سَنَدْعُ",
+            "الزَّبَانِيَةَۙ"
+        ],
+        "translation": "Kelak Kami akan memanggil (Malaikat) Zabaniah (penyiksa orang-orang yang berdosa).759)",
+        "footnotes": "759) Zabaniah adalah malaikat yang bertugas menyiksa orang-orang yang berdosa.",
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6125,
+        "surah_id": 96,
+        "ayah": 19,
+        "page": 597,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+        "kitabah": "كَلَّاۗ  لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩ ࣖ",
+        "latin": "Kallā, lā tuṭi‘hu wasjud waqtarib.",
+        "arabic_words": [
+            "كَلَّاۗ",
+            "لَا",
+            "تُطِعْهُ",
+            "وَاسْجُدْ",
+            "وَاقْتَرِبْ ۩ ࣖ"
+        ],
+        "translation": "Sekali-kali tidak! Janganlah patuh kepadanya, (tetapi) sujud dan mendekatlah (kepada Allah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 96,
+            "arabic": " العلق",
+            "latin": "Al-‘Alaq",
+            "transliteration": "Al-‘Alaq",
+            "translation": "Segumpal Darah",
+            "num_ayah": 19,
+            "page": 597,
+            "location": "Makkiyah"
+        }
+    }
+]

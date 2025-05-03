@@ -1,0 +1,640 @@
+[
+    {
+        "id": 6059,
+        "surah_id": 92,
+        "ayah": 1,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+        "kitabah": "وَالَّيْلِ اِذَا يَغْشٰىۙ",
+        "latin": "Wal-laili iżā yagsyā.",
+        "arabic_words": [
+            "وَالَّيْلِ",
+            "اِذَا",
+            "يَغْشٰىۙ"
+        ],
+        "translation": "Demi malam apabila menutupi (cahaya siang),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6060,
+        "surah_id": 92,
+        "ayah": 2,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+        "kitabah": "وَالنَّهَارِ اِذَا تَجَلّٰىۙ",
+        "latin": "Wan-nahāri iżā tajallā.",
+        "arabic_words": [
+            "وَالنَّهَارِ",
+            "اِذَا",
+            "تَجَلّٰىۙ"
+        ],
+        "translation": "demi siang apabila terang benderang,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6061,
+        "surah_id": 92,
+        "ayah": 3,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+        "kitabah": "وَمَا خَلَقَ الذَّكَرَ وَالْاُنْثٰىٓ ۙ",
+        "latin": "Wa mā khalaqaż-żakara wal-unṡā.",
+        "arabic_words": [
+            "وَمَا",
+            "خَلَقَ",
+            "الذَّكَرَ",
+            "وَالْاُنْثٰىٓ ۙ"
+        ],
+        "translation": "dan demi penciptaan laki-laki dan perempuan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6062,
+        "surah_id": 92,
+        "ayah": 4,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+        "kitabah": "اِنَّ سَعْيَكُمْ لَشَتّٰىۗ",
+        "latin": "Inna sa‘yakum lasyattā.",
+        "arabic_words": [
+            "اِنَّ",
+            "سَعْيَكُمْ",
+            "لَشَتّٰىۗ"
+        ],
+        "translation": "sesungguhnya usahamu benar-benar beraneka ragam.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6063,
+        "surah_id": 92,
+        "ayah": 5,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+        "kitabah": "فَاَمَّا مَنْ اَعْطٰى وَاتَّقٰىۙ",
+        "latin": "Fa ammā man a‘ṭā wattaqā.",
+        "arabic_words": [
+            "فَاَمَّا",
+            "مَنْ",
+            "اَعْطٰى",
+            "وَاتَّقٰىۙ"
+        ],
+        "translation": "Siapa yang memberikan (hartanya di jalan Allah) dan bertakwa",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6064,
+        "surah_id": 92,
+        "ayah": 6,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+        "kitabah": "وَصَدَّقَ بِالْحُسْنٰىۙ",
+        "latin": "Wa ṣaddaqa bil-ḥusnā.",
+        "arabic_words": [
+            "وَصَدَّقَ",
+            "بِالْحُسْنٰىۙ"
+        ],
+        "translation": "serta membenarkan adanya (balasan) yang terbaik (surga),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6065,
+        "surah_id": 92,
+        "ayah": 7,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+        "kitabah": "فَسَنُيَسِّرُهٗ لِلْيُسْرٰىۗ",
+        "latin": "Fa sanuyassiruhū lil-yusrā.",
+        "arabic_words": [
+            "فَسَنُيَسِّرُهٗ",
+            "لِلْيُسْرٰىۗ"
+        ],
+        "translation": "Kami akan melapangkan baginya jalan kemudahan (kebahagiaan).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6066,
+        "surah_id": 92,
+        "ayah": 8,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+        "kitabah": "وَاَمَّا مَنْۢ بَخِلَ وَاسْتَغْنٰىۙ",
+        "latin": "Wa ammā man bakhila wastagnā.",
+        "arabic_words": [
+            "وَاَمَّا",
+            "مَنْۢ",
+            "بَخِلَ",
+            "وَاسْتَغْنٰىۙ"
+        ],
+        "translation": "Adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6067,
+        "surah_id": 92,
+        "ayah": 9,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+        "kitabah": "وَكَذَّبَ بِالْحُسْنٰىۙ",
+        "latin": "Wa każżaba bil-ḥusnā.",
+        "arabic_words": [
+            "وَكَذَّبَ",
+            "بِالْحُسْنٰىۙ"
+        ],
+        "translation": "serta mendustakan (balasan) yang terbaik,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6068,
+        "surah_id": 92,
+        "ayah": 10,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+        "kitabah": "فَسَنُيَسِّرُهٗ لِلْعُسْرٰىۗ",
+        "latin": "Fa sanuyassiruhū lil-‘usrā.   ",
+        "arabic_words": [
+            "فَسَنُيَسِّرُهٗ",
+            "لِلْعُسْرٰىۗ"
+        ],
+        "translation": "Kami akan memudahkannya menuju jalan kesengsaraan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6069,
+        "surah_id": 92,
+        "ayah": 11,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+        "kitabah": "وَمَا يُغْنِيْ عَنْهُ مَالُهٗٓ اِذَا تَرَدّٰىٓۙ",
+        "latin": "Wa mā yugnī ‘anhu māluhū iżā taraddā.",
+        "arabic_words": [
+            "وَمَا",
+            "يُغْنِيْ",
+            "عَنْهُ",
+            "مَالُهٗٓ",
+            "اِذَا",
+            "تَرَدّٰىٓۙ"
+        ],
+        "translation": "Hartanya tidak bermanfaat baginya apabila dia telah binasa.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6070,
+        "surah_id": 92,
+        "ayah": 12,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+        "kitabah": "اِنَّ عَلَيْنَا لَلْهُدٰىۖ",
+        "latin": "Inna ‘alainā lal-hudā.",
+        "arabic_words": [
+            "اِنَّ",
+            "عَلَيْنَا",
+            "لَلْهُدٰىۖ"
+        ],
+        "translation": "Sesungguhnya Kamilah yang (berhak) memberi petunjuk.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6071,
+        "surah_id": 92,
+        "ayah": 13,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+        "kitabah": "وَاِنَّ لَنَا لَلْاٰخِرَةَ وَالْاُوْلٰىۗ",
+        "latin": "Wa inna lanā lal-ākhirata wal-ūlā.",
+        "arabic_words": [
+            "وَاِنَّ",
+            "لَنَا",
+            "لَلْاٰخِرَةَ",
+            "وَالْاُوْلٰىۗ"
+        ],
+        "translation": "Sesungguhnya milik Kamilah akhirat dan dunia.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6072,
+        "surah_id": 92,
+        "ayah": 14,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+        "kitabah": "فَاَنْذَرْتُكُمْ نَارًا تَلَظّٰىۚ",
+        "latin": "Fa anżartukum nāran talaẓẓā.",
+        "arabic_words": [
+            "فَاَنْذَرْتُكُمْ",
+            "نَارًا",
+            "تَلَظّٰىۚ"
+        ],
+        "translation": "Aku memperingatkanmu dengan neraka yang menyala-nyala.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6073,
+        "surah_id": 92,
+        "ayah": 15,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+        "kitabah": "لَا يَصْلٰىهَآ اِلَّا الْاَشْقَىۙ",
+        "latin": "Lā yaṣlāhā illal-asyqā.",
+        "arabic_words": [
+            "لَا",
+            "يَصْلٰىهَآ",
+            "اِلَّا",
+            "الْاَشْقَىۙ"
+        ],
+        "translation": "Tidak masuk ke dalamnya kecuali orang yang paling celaka,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6074,
+        "surah_id": 92,
+        "ayah": 16,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+        "kitabah": "الَّذِيْ كَذَّبَ وَتَوَلّٰىۗ",
+        "latin": "Allażī każżaba wa tawallā.",
+        "arabic_words": [
+            "الَّذِيْ",
+            "كَذَّبَ",
+            "وَتَوَلّٰىۗ"
+        ],
+        "translation": "yang mendustakan (kebenaran) dan berpaling (dari keimanan).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6075,
+        "surah_id": 92,
+        "ayah": 17,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+        "kitabah": "وَسَيُجَنَّبُهَا الْاَتْقَىۙ",
+        "latin": "Wa sayujannabuhal-atqā.",
+        "arabic_words": [
+            "وَسَيُجَنَّبُهَا",
+            "الْاَتْقَىۙ"
+        ],
+        "translation": "Akan dijauhkan darinya (neraka) orang yang paling bertakwa,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6076,
+        "surah_id": 92,
+        "ayah": 18,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+        "kitabah": "الَّذِيْ يُؤْتِيْ مَالَهٗ يَتَزَكّٰىۚ",
+        "latin": "Allażī yu'tī mālahū yatazakkā.",
+        "arabic_words": [
+            "الَّذِيْ",
+            "يُؤْتِيْ",
+            "مَالَهٗ",
+            "يَتَزَكّٰىۚ"
+        ],
+        "translation": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (diri dari sifat kikir dan tamak).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6077,
+        "surah_id": 92,
+        "ayah": 19,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+        "kitabah": "وَمَا لِاَحَدٍ عِنْدَهٗ مِنْ نِّعْمَةٍ تُجْزٰىٓۙ",
+        "latin": "Wa mā li'aḥadin ‘indahū min ni‘matin tujzā.",
+        "arabic_words": [
+            "وَمَا",
+            "لِاَحَدٍ",
+            "عِنْدَهٗ",
+            "مِنْ",
+            "نِّعْمَةٍ",
+            "تُجْزٰىٓۙ"
+        ],
+        "translation": "Tidak ada suatu nikmat pun yang diberikan seseorang kepadanya yang harus dibalas,758)",
+        "footnotes": "758) Maksudnya adalah bahwa orang-orang yang bertakwa membantu orang lain bukan karena orang itu berjasa kepadanya sehingga perlu membalasnya, melainkan hanya mengharap rida Allah.",
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6078,
+        "surah_id": 92,
+        "ayah": 20,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+        "kitabah": "اِلَّا ابْتِغَاۤءَ وَجْهِ رَبِّهِ الْاَعْلٰىۚ",
+        "latin": "Illabtigā'a wajhi rabbihil-a‘lā.",
+        "arabic_words": [
+            "اِلَّا",
+            "ابْتِغَاۤءَ",
+            "وَجْهِ",
+            "رَبِّهِ",
+            "الْاَعْلٰىۚ"
+        ],
+        "translation": "kecuali (dia memberikannya semata-mata) karena mencari keridaan Tuhannya Yang Maha Tinggi.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6079,
+        "surah_id": 92,
+        "ayah": 21,
+        "page": 596,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَسَوْفَ يَرْضٰى ࣖ",
+        "kitabah": "وَلَسَوْفَ يَرْضٰى ࣖ",
+        "latin": "Wa lasaufa yarḍā.",
+        "arabic_words": [
+            "وَلَسَوْفَ",
+            "يَرْضٰى ࣖ"
+        ],
+        "translation": "Sungguh, kelak dia akan mendapatkan kepuasan (menerima balasan amalnya).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 92,
+            "arabic": " الّيل",
+            "latin": "Al-Lail",
+            "transliteration": "Al-Lail",
+            "translation": "Malam",
+            "num_ayah": 21,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    }
+]

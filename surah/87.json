@@ -1,0 +1,587 @@
+[
+    {
+        "id": 5949,
+        "surah_id": 87,
+        "ayah": 1,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ ",
+        "kitabah": "سَبِّحِ اسْمَ رَبِّكَ الْاَعْلَىۙ ",
+        "latin": "Sabbiḥisma rabbikal-a‘lā.",
+        "arabic_words": [
+            "سَبِّحِ",
+            "اسْمَ",
+            "رَبِّكَ",
+            "الْاَعْلَىۙ"
+        ],
+        "translation": "Sucikanlah nama Tuhanmu Yang Maha Tinggi,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5950,
+        "surah_id": 87,
+        "ayah": 2,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ خَلَقَ فَسَوّٰىۖ ",
+        "kitabah": "الَّذِيْ خَلَقَ فَسَوّٰىۖ ",
+        "latin": "Allażī khalaqa fasawwā.",
+        "arabic_words": [
+            "الَّذِيْ",
+            "خَلَقَ",
+            "فَسَوّٰى ۖ"
+        ],
+        "translation": "yang menciptakan, lalu menyempurnakan (ciptaan-Nya),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5951,
+        "surah_id": 87,
+        "ayah": 3,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ ",
+        "kitabah": "وَالَّذِيْ قَدَّرَ فَهَدٰىۖ ",
+        "latin": "Wal-lażī qaddara fahadā.",
+        "arabic_words": [
+            "وَالَّذِيْ",
+            "قَدَّرَ",
+            "فَهَدٰىۖ"
+        ],
+        "translation": "yang menentukan kadar (masing-masing) dan memberi petunjuk,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5952,
+        "surah_id": 87,
+        "ayah": 4,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ ",
+        "kitabah": "وَالَّذِيْٓ اَخْرَجَ الْمَرْعٰىۖ ",
+        "latin": "Wal-lażī akhrajal-mar‘ā.",
+        "arabic_words": [
+            "وَالَّذِيْٓ",
+            "اَخْرَجَ",
+            "الْمَرْعٰىۖ"
+        ],
+        "translation": "dan yang menumbuhkan (rerumputan) padang gembala,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5953,
+        "surah_id": 87,
+        "ayah": 5,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ ",
+        "kitabah": "فَجَعَلَهٗ غُثَاۤءً اَحْوٰىۖ ",
+        "latin": "Fa ja‘alahū guṡā'an aḥwā.",
+        "arabic_words": [
+            "فَجَعَلَهٗ",
+            "غُثَاۤءً",
+            "اَحْوٰىۖ"
+        ],
+        "translation": "lalu menjadikannya kering kehitam-hitaman.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5954,
+        "surah_id": 87,
+        "ayah": 6,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ  ۖ ",
+        "kitabah": "سَنُقْرِئُكَ فَلَا تَنْسٰىٓ  ۖ ",
+        "latin": "Sanuqri'uka falā tansā.",
+        "arabic_words": [
+            "سَنُقْرِئُكَ",
+            "فَلَا",
+            "تَنْسٰىٓ ۖ"
+        ],
+        "translation": "Kami akan membacakan (Al-Qur’an) kepadamu (Nabi Muhammad) sehingga engkau tidak akan lupa,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5955,
+        "surah_id": 87,
+        "ayah": 7,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ ",
+        "kitabah": "اِلَّا مَا شَاۤءَ اللّٰهُ ۗاِنَّهٗ يَعْلَمُ الْجَهْرَ وَمَا يَخْفٰىۗ ",
+        "latin": "Illā mā syā'allāh(u), innahū ya‘lamul-jahra wa mā yakhfā.",
+        "arabic_words": [
+            "اِلَّا",
+            "مَا",
+            "شَاۤءَ",
+            "اللّٰهُ ۗ",
+            "اِنَّهٗ",
+            "يَعْلَمُ",
+            "الْجَهْرَ",
+            "وَمَا",
+            "يَخْفٰىۗ"
+        ],
+        "translation": "kecuali jika Allah menghendaki. Sesungguhnya Dia mengetahui yang terang dan yang tersembunyi.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5956,
+        "surah_id": 87,
+        "ayah": 8,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ ",
+        "kitabah": "وَنُيَسِّرُكَ لِلْيُسْرٰىۖ ",
+        "latin": "Wa nuyassiruka lil-yusrā.",
+        "arabic_words": [
+            "وَنُيَسِّرُكَ",
+            "لِلْيُسْرٰىۖ"
+        ],
+        "translation": "Kami akan melapangkan bagimu jalan kemudahan (dalam segala urusan).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5957,
+        "surah_id": 87,
+        "ayah": 9,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ ",
+        "kitabah": "فَذَكِّرْ اِنْ نَّفَعَتِ الذِّكْرٰىۗ ",
+        "latin": "Fa żakkir in nafa‘atiż-żikrā.",
+        "arabic_words": [
+            "فَذَكِّرْ",
+            "اِنْ",
+            "نَّفَعَتِ",
+            "الذِّكْرٰىۗ"
+        ],
+        "translation": "Maka, sampaikanlah peringatan jika peringatan itu bermanfaat.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5958,
+        "surah_id": 87,
+        "ayah": 10,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ ",
+        "kitabah": "سَيَذَّكَّرُ مَنْ يَّخْشٰىۙ ",
+        "latin": "Sayażżakkaru may yakhsyā.",
+        "arabic_words": [
+            "سَيَذَّكَّرُ",
+            "مَنْ",
+            "يَّخْشٰىۙ"
+        ],
+        "translation": "Orang yang takut (kepada Allah) akan mengambil pelajaran,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5959,
+        "surah_id": 87,
+        "ayah": 11,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ ",
+        "kitabah": "وَيَتَجَنَّبُهَا الْاَشْقَىۙ ",
+        "latin": "Wa yatajannabuhal-asyqā.",
+        "arabic_words": [
+            "وَيَتَجَنَّبُهَا",
+            "الْاَشْقَىۙ"
+        ],
+        "translation": "sedangkan orang-orang yang celaka (kafir) akan menjauhinya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5960,
+        "surah_id": 87,
+        "ayah": 12,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ ",
+        "kitabah": "الَّذِيْ يَصْلَى النَّارَ الْكُبْرٰىۚ ",
+        "latin": "Allażī yaṣlan-nāral-kubrā.",
+        "arabic_words": [
+            "الَّذِيْ",
+            "يَصْلَى",
+            "النَّارَ",
+            "الْكُبْرٰىۚ"
+        ],
+        "translation": "(yaitu) orang yang akan memasuki api (neraka) yang besar.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5961,
+        "surah_id": 87,
+        "ayah": 13,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ ",
+        "kitabah": "ثُمَّ لَا يَمُوْتُ فِيْهَا وَلَا يَحْيٰىۗ ",
+        "latin": "Ṡumma lā yamūtu fīhā wa lā yaḥyā.",
+        "arabic_words": [
+            "ثُمَّ",
+            "لَا",
+            "يَمُوْتُ",
+            "فِيْهَا",
+            "وَلَا",
+            "يَحْيٰىۗ"
+        ],
+        "translation": "Selanjutnya, dia tidak mati dan tidak (pula) hidup di sana.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5962,
+        "surah_id": 87,
+        "ayah": 14,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ ",
+        "kitabah": "قَدْ اَفْلَحَ مَنْ تَزَكّٰىۙ ",
+        "latin": "Qad aflaḥa man tazakkā.",
+        "arabic_words": [
+            "قَدْ",
+            "اَفْلَحَ",
+            "مَنْ",
+            "تَزَكّٰىۙ"
+        ],
+        "translation": "Sungguh, beruntung orang yang menyucikan diri (dari kekafiran)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5963,
+        "surah_id": 87,
+        "ayah": 15,
+        "page": 591,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ ",
+        "kitabah": "وَذَكَرَ اسْمَ رَبِّهٖ فَصَلّٰىۗ ",
+        "latin": "Wa żakarasma rabbihī fa ṣallā.",
+        "arabic_words": [
+            "وَذَكَرَ",
+            "اسْمَ",
+            "رَبِّهٖ",
+            "فَصَلّٰىۗ"
+        ],
+        "translation": "dan mengingat nama Tuhannya, lalu dia salat.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5964,
+        "surah_id": 87,
+        "ayah": 16,
+        "page": 592,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ ",
+        "kitabah": "بَلْ تُؤْثِرُوْنَ الْحَيٰوةَ الدُّنْيَاۖ ",
+        "latin": "Bal tu'ṡirūnal-ḥayātad-dun-yā.",
+        "arabic_words": [
+            "بَلْ",
+            "تُؤْثِرُوْنَ",
+            "الْحَيٰوةَ",
+            "الدُّنْيَاۖ"
+        ],
+        "translation": "Adapun kamu (orang-orang kafir) mengutamakan kehidupan dunia,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5965,
+        "surah_id": 87,
+        "ayah": 17,
+        "page": 592,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ ",
+        "kitabah": "وَالْاٰخِرَةُ خَيْرٌ وَّاَبْقٰىۗ ",
+        "latin": "Wal-ākhiratu khairuw wa abqā.",
+        "arabic_words": [
+            "وَالْاٰخِرَةُ",
+            "خَيْرٌ",
+            "وَّاَبْقٰىۗ"
+        ],
+        "translation": "padahal kehidupan akhirat itu lebih baik dan lebih kekal.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5966,
+        "surah_id": 87,
+        "ayah": 18,
+        "page": 592,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ ",
+        "kitabah": "اِنَّ هٰذَا لَفِى الصُّحُفِ الْاُوْلٰىۙ ",
+        "latin": "Inna hāżā lafiṣ-ṣuḥufil-ūlā.",
+        "arabic_words": [
+            "اِنَّ",
+            "هٰذَا",
+            "لَفِى",
+            "الصُّحُفِ",
+            "الْاُوْلٰىۙ"
+        ],
+        "translation": "Sesungguhnya (penjelasan) ini terdapat dalam suhuf (lembaran-lembaran) yang terdahulu,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5967,
+        "surah_id": 87,
+        "ayah": 19,
+        "page": 592,
+        "quarter_hizb": 60,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى ࣖ ",
+        "kitabah": "صُحُفِ اِبْرٰهِيْمَ وَمُوْسٰى ࣖ ",
+        "latin": "Ṣuḥufi ibrāhīma wa mūsā.",
+        "arabic_words": [
+            "صُحُفِ",
+            "اِبْرٰهِيْمَ",
+            "وَمُوْسٰى ࣖ"
+        ],
+        "translation": "(yaitu) suhuf (yang diturunkan kepada) Ibrahim dan Musa.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 87,
+            "arabic": " الاعلى",
+            "latin": "Al-A‘lā",
+            "transliteration": "Al-A‘la",
+            "translation": "Yang Maha Tinggi",
+            "num_ayah": 19,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    }
+]

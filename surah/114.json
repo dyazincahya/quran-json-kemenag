@@ -1,0 +1,185 @@
+[
+    {
+        "id": 6231,
+        "surah_id": 114,
+        "ayah": 1,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+        "kitabah": "قُلْ اَعُوْذُ بِرَبِّ النَّاسِۙ",
+        "latin": "Qul a‘ūżu birabbin-nās(i).",
+        "arabic_words": [
+            "قُلْ",
+            "اَعُوْذُ",
+            "بِرَبِّ",
+            "النَّاسِۙ"
+        ],
+        "translation": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan manusia,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6232,
+        "surah_id": 114,
+        "ayah": 2,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "مَلِكِ النَّاسِۙ",
+        "kitabah": "مَلِكِ النَّاسِۙ",
+        "latin": "Malikin-nās(i).",
+        "arabic_words": [
+            "مَلِكِ",
+            "النَّاسِۙ"
+        ],
+        "translation": "raja manusia,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6233,
+        "surah_id": 114,
+        "ayah": 3,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِلٰهِ النَّاسِۙ",
+        "kitabah": "اِلٰهِ النَّاسِۙ",
+        "latin": "Ilāhin-nās(i).",
+        "arabic_words": [
+            "اِلٰهِ",
+            "النَّاسِۙ"
+        ],
+        "translation": "sembahan manusia",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6234,
+        "surah_id": 114,
+        "ayah": 4,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+        "kitabah": "مِنْ شَرِّ الْوَسْوَاسِ ەۙ الْخَنَّاسِۖ",
+        "latin": "Min syarril-waswāsil-khannās(i).",
+        "arabic_words": [
+            "مِنْ",
+            "شَرِّ",
+            "الْوَسْوَاسِ",
+            "ەۙ",
+            "الْخَنَّاسِۖ"
+        ],
+        "translation": "dari kejahatan (setan) pembisik yang bersembunyi",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6235,
+        "surah_id": 114,
+        "ayah": 5,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+        "kitabah": "الَّذِيْ يُوَسْوِسُ فِيْ صُدُوْرِ النَّاسِۙ",
+        "latin": "Allażī yuwaswisu fī ṣudūrin-nās(i).",
+        "arabic_words": [
+            "الَّذِيْ",
+            "يُوَسْوِسُ",
+            "فِيْ",
+            "صُدُوْرِ",
+            "النَّاسِۙ"
+        ],
+        "translation": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6236,
+        "surah_id": 114,
+        "ayah": 6,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+        "kitabah": "مِنَ الْجِنَّةِ وَالنَّاسِ ࣖ ",
+        "latin": "Minal jinnati wan-nās(i).",
+        "arabic_words": [
+            "مِنَ",
+            "الْجِنَّةِ",
+            "وَالنَّاسِ ࣖ"
+        ],
+        "translation": "dari (golongan) jin dan manusia.”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 114,
+            "arabic": "النّاس",
+            "latin": "An-Nās",
+            "transliteration": "An-Nas",
+            "translation": "Manusia",
+            "num_ayah": 6,
+            "page": 604,
+            "location": "Madaniyah"
+        }
+    }
+]

@@ -1,0 +1,522 @@
+[
+    {
+        "id": 5932,
+        "surah_id": 86,
+        "ayah": 1,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+        "kitabah": "وَالسَّمَاۤءِ وَالطَّارِقِۙ ",
+        "latin": "Was-samā'i waṭ-ṭāriq(i).",
+        "arabic_words": [
+            "وَالسَّمَاۤءِ",
+            "وَالطَّارِقِۙ"
+        ],
+        "translation": "Demi langit dan yang datang pada malam hari.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5933,
+        "surah_id": 86,
+        "ayah": 2,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+        "kitabah": "وَمَآ اَدْرٰىكَ مَا الطَّارِقُۙ ",
+        "latin": "Wa mā adrāka maṭ-ṭāriq(u).",
+        "arabic_words": [
+            "وَمَآ",
+            "اَدْرٰىكَ",
+            "مَا",
+            "الطَّارِقُۙ"
+        ],
+        "translation": "Tahukah kamu apakah yang datang pada malam hari itu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5934,
+        "surah_id": 86,
+        "ayah": 3,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "النَّجْمُ الثَّاقِبُۙ ",
+        "kitabah": "النَّجْمُ الثَّاقِبُۙ ",
+        "latin": "An-najmuṡ-ṡāqib(u).",
+        "arabic_words": [
+            "النَّجْمُ",
+            "الثَّاقِبُۙ"
+        ],
+        "translation": "(Itulah) bintang yang bersinar tajam.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5935,
+        "surah_id": 86,
+        "ayah": 4,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+        "kitabah": "اِنْ كُلُّ نَفْسٍ لَّمَّا عَلَيْهَا حَافِظٌۗ ",
+        "latin": "In kullu nafsil lammā ‘alaihā ḥāfiẓ(un).",
+        "arabic_words": [
+            "اِنْ",
+            "كُلُّ",
+            "نَفْسٍ",
+            "لَّمَّا",
+            "عَلَيْهَا",
+            "حَافِظٌۗ"
+        ],
+        "translation": "Setiap orang pasti ada penjaganya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5936,
+        "surah_id": 86,
+        "ayah": 5,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+        "kitabah": "فَلْيَنْظُرِ الْاِنْسَانُ مِمَّ خُلِقَ ",
+        "latin": "Falyanẓuril-insānu mimma khuliq(a).",
+        "arabic_words": [
+            "فَلْيَنْظُرِ",
+            "الْاِنْسَانُ",
+            "مِمَّ",
+            "خُلِقَ"
+        ],
+        "translation": " Hendaklah manusia memperhatikan dari apa dia diciptakan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5937,
+        "surah_id": 86,
+        "ayah": 6,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+        "kitabah": "خُلِقَ مِنْ مَّاۤءٍ دَافِقٍۙ ",
+        "latin": "Khuliqa mim mā'in dāfiq(in).",
+        "arabic_words": [
+            "خُلِقَ",
+            "مِنْ",
+            "مَّاۤءٍ",
+            "دَافِقٍۙ"
+        ],
+        "translation": "Dia diciptakan dari air (mani) yang memancar,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5938,
+        "surah_id": 86,
+        "ayah": 7,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+        "kitabah": "يَّخْرُجُ مِنْۢ بَيْنِ الصُّلْبِ وَالتَّرَاۤىِٕبِۗ ",
+        "latin": "Yakhruju mim bainiṣ-ṣulbi wat-tarā'ib(i).",
+        "arabic_words": [
+            "يَّخْرُجُ",
+            "مِنْۢ",
+            "بَيْنِ",
+            "الصُّلْبِ",
+            "وَالتَّرَاۤىِٕبِۗ"
+        ],
+        "translation": "yang keluar dari antara tulang sulbi (punggung) dan tulang dada.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5939,
+        "surah_id": 86,
+        "ayah": 8,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+        "kitabah": "اِنَّهٗ عَلٰى رَجْعِهٖ لَقَادِرٌۗ ",
+        "latin": "Innahū ‘alā raj‘ihī laqādir(un).",
+        "arabic_words": [
+            "اِنَّهٗ",
+            "عَلٰى",
+            "رَجْعِهٖ",
+            "لَقَادِرٌۗ"
+        ],
+        "translation": "Sesungguhnya Dia (Allah) benar-benar kuasa untuk mengembalikannya (hidup setelah mati)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5940,
+        "surah_id": 86,
+        "ayah": 9,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+        "kitabah": "يَوْمَ تُبْلَى السَّرَاۤىِٕرُۙ ",
+        "latin": "Yauma tublas-sarā'ir(u).",
+        "arabic_words": [
+            "يَوْمَ",
+            "تُبْلَى",
+            "السَّرَاۤىِٕرُۙ"
+        ],
+        "translation": "pada hari ditampakkan segala rahasia.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5941,
+        "surah_id": 86,
+        "ayah": 10,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+        "kitabah": "فَمَا لَهٗ مِنْ قُوَّةٍ وَّلَا نَاصِرٍۗ ",
+        "latin": "Famā lahū min quwwatiw wa lā nāṣir(in).",
+        "arabic_words": [
+            "فَمَا",
+            "لَهٗ",
+            "مِنْ",
+            "قُوَّةٍ",
+            "وَّلَا",
+            "نَاصِرٍۗ"
+        ],
+        "translation": "Maka, baginya (manusia) tidak ada lagi kekuatan dan tidak (pula) ada penolong.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5942,
+        "surah_id": 86,
+        "ayah": 11,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+        "kitabah": "وَالسَّمَاۤءِ ذَاتِ الرَّجْعِۙ ",
+        "latin": "Was-samā'i żātir-raj‘(i).",
+        "arabic_words": [
+            "وَالسَّمَاۤءِ",
+            "ذَاتِ",
+            "الرَّجْعِۙ"
+        ],
+        "translation": "Demi langit yang mengandung hujan753)",
+        "footnotes": "753) Raj‘ berarti ‘kembali berputar’. Hujan dinamakan raj‘ karena berasal dari uap yang naik dari bumi ke udara, kemudian turun ke bumi, kemudian menguap kembali ke atas, lalu turun kembali ke bumi, dan begituseterusnya.",
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5943,
+        "surah_id": 86,
+        "ayah": 12,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+        "kitabah": "وَالْاَرْضِ ذَاتِ الصَّدْعِۙ ",
+        "latin": "Wal-arḍi żātiṣ-ṣad‘(i).",
+        "arabic_words": [
+            "وَالْاَرْضِ",
+            "ذَاتِ",
+            "الصَّدْعِۙ"
+        ],
+        "translation": "dan bumi yang memiliki rekahan (tempat tumbuhnya pepohonan),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5944,
+        "surah_id": 86,
+        "ayah": 13,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+        "kitabah": "اِنَّهٗ لَقَوْلٌ فَصْلٌۙ ",
+        "latin": "Innahū laqaulun faṣl(un).",
+        "arabic_words": [
+            "اِنَّهٗ",
+            "لَقَوْلٌ",
+            "فَصْلٌۙ"
+        ],
+        "translation": "sesungguhnya (Al-Qur’an) itu benar-benar firman pemisah (antara yang hak dan yang batil)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5945,
+        "surah_id": 86,
+        "ayah": 14,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَّمَا هُوَ بِالْهَزْلِۗ ",
+        "kitabah": "وَّمَا هُوَ بِالْهَزْلِۗ ",
+        "latin": "Wa mā huwa bil-hazl(i).",
+        "arabic_words": [
+            "وَّمَا",
+            "هُوَ",
+            "بِالْهَزْلِۗ"
+        ],
+        "translation": "dan ia (Al-Qur’an) sama sekali bukan perkataan senda gurau.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5946,
+        "surah_id": 86,
+        "ayah": 15,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+        "kitabah": "اِنَّهُمْ يَكِيْدُوْنَ كَيْدًاۙ ",
+        "latin": "Innahum yakīdūna kaidā(n).",
+        "arabic_words": [
+            "اِنَّهُمْ",
+            "يَكِيْدُوْنَ",
+            "كَيْدًاۙ"
+        ],
+        "translation": "Sesungguhnya mereka (orang kafir) melakukan tipu daya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5947,
+        "surah_id": 86,
+        "ayah": 16,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَّاَكِيْدُ كَيْدًاۖ ",
+        "kitabah": "وَّاَكِيْدُ كَيْدًاۖ ",
+        "latin": "Wa akīdu kaidā(n).",
+        "arabic_words": [
+            "وَّاَكِيْدُ",
+            "كَيْدًاۖ"
+        ],
+        "translation": "Aku pun membalasnya dengan tipu daya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5948,
+        "surah_id": 86,
+        "ayah": 17,
+        "page": 591,
+        "quarter_hizb": 59.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+        "kitabah": "فَمَهِّلِ الْكٰفِرِيْنَ اَمْهِلْهُمْ رُوَيْدًا ࣖ ",
+        "latin": "Fa mahhilil-kāfirīna amhilhum ruwaidā(n).",
+        "arabic_words": [
+            "فَمَهِّلِ",
+            "الْكٰفِرِيْنَ",
+            "اَمْهِلْهُمْ",
+            "رُوَيْدًا ࣖ"
+        ],
+        "translation": "Maka, tangguhkanlah orang-orang kafir itu. Biarkanlah mereka sejenak (bersenang-senang).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 86,
+            "arabic": "الطّارق",
+            "latin": "Aṭ-Ṭāriq",
+            "transliteration": "At-Tariq",
+            "translation": "Yang Datang Pada Malam Hari",
+            "num_ayah": 17,
+            "page": 591,
+            "location": "Makkiyah"
+        }
+    }
+]

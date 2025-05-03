@@ -1,0 +1,889 @@
+[
+    {
+        "id": 5801,
+        "surah_id": 81,
+        "ayah": 1,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+        "kitabah": "اِذَا الشَّمْسُ كُوِّرَتْۖ",
+        "latin": "Iżasy-syamsu kuwwirat.",
+        "arabic_words": [
+            "اِذَا",
+            "الشَّمْسُ",
+            "كُوِّرَتْۖ"
+        ],
+        "translation": "Apabila matahari digulung,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5802,
+        "surah_id": 81,
+        "ayah": 2,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+        "kitabah": "وَاِذَا النُّجُوْمُ انْكَدَرَتْۖ",
+        "latin": "Wa iżan-nujūmunkadarat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "النُّجُوْمُ",
+            "انْكَدَرَتْۖ"
+        ],
+        "translation": "apabila bintang-bintang berjatuhan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5803,
+        "surah_id": 81,
+        "ayah": 3,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+        "kitabah": "وَاِذَا الْجِبَالُ سُيِّرَتْۖ",
+        "latin": "Wa iżal-jibālu suyyirat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْجِبَالُ",
+            "سُيِّرَتْۖ"
+        ],
+        "translation": "apabila gunung-gunung dihancurkan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5804,
+        "surah_id": 81,
+        "ayah": 4,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+        "kitabah": "وَاِذَا الْعِشَارُ عُطِّلَتْۖ",
+        "latin": "Wa iżal-‘isyāru ‘uṭṭilat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْعِشَارُ",
+            "عُطِّلَتْۖ"
+        ],
+        "translation": "apabila unta-unta yang bunting ditinggalkan (tidak terurus),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5805,
+        "surah_id": 81,
+        "ayah": 5,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+        "kitabah": "وَاِذَا الْوُحُوْشُ حُشِرَتْۖ",
+        "latin": "Wa iżal-wuḥūsy ḥusyirat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْوُحُوْشُ",
+            "حُشِرَتْۖ"
+        ],
+        "translation": "apabila binatang-binatang liar dikumpulkan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5806,
+        "surah_id": 81,
+        "ayah": 6,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+        "kitabah": "وَاِذَا الْبِحَارُ سُجِّرَتْۖ",
+        "latin": "Wa iżal-biḥāru sujjirat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْبِحَارُ",
+            "سُجِّرَتْۖ"
+        ],
+        "translation": "apabila lautan dipanaskan,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5807,
+        "surah_id": 81,
+        "ayah": 7,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+        "kitabah": "وَاِذَا النُّفُوْسُ زُوِّجَتْۖ",
+        "latin": "Wa iżan-nufūsu zuwwijat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "النُّفُوْسُ",
+            "زُوِّجَتْۖ"
+        ],
+        "translation": "apabila roh-roh dipertemukan (dengan tubuh), ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5808,
+        "surah_id": 81,
+        "ayah": 8,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+        "kitabah": "وَاِذَا الْمَوْءٗدَةُ سُىِٕلَتْۖ ",
+        "latin": "Wa iżal-mau'ūdatu su'ilat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْمَوْءٗدَةُ",
+            "سُىِٕلَتْۖ"
+        ],
+        "translation": "apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5809,
+        "surah_id": 81,
+        "ayah": 9,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+        "kitabah": "بِاَيِّ ذَنْۢبٍ قُتِلَتْۚ",
+        "latin": "Bi'ayyi żambin qutilat.",
+        "arabic_words": [
+            "بِاَيِّ",
+            "ذَنْۢبٍ",
+            "قُتِلَتْۚ"
+        ],
+        "translation": "“Karena dosa apa dia dibunuh,”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5810,
+        "surah_id": 81,
+        "ayah": 10,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+        "kitabah": "وَاِذَا الصُّحُفُ نُشِرَتْۖ",
+        "latin": "Wa iżaṣ-ṣuḥufu nusyirat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الصُّحُفُ",
+            "نُشِرَتْۖ"
+        ],
+        "translation": "apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5811,
+        "surah_id": 81,
+        "ayah": 11,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+        "kitabah": "وَاِذَا السَّمَاۤءُ كُشِطَتْۖ",
+        "latin": "Wa iżas-samā'u kusyiṭat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "السَّمَاۤءُ",
+            "كُشِطَتْۖ"
+        ],
+        "translation": "apabila langit dilenyapkan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5812,
+        "surah_id": 81,
+        "ayah": 12,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+        "kitabah": "وَاِذَا الْجَحِيْمُ سُعِّرَتْۖ",
+        "latin": "Wa iżal-jaḥīmu su‘‘irat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْجَحِيْمُ",
+            "سُعِّرَتْۖ"
+        ],
+        "translation": "apabila (neraka) Jahim dinyalakan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5813,
+        "surah_id": 81,
+        "ayah": 13,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+        "kitabah": "وَاِذَا الْجَنَّةُ اُزْلِفَتْۖ",
+        "latin": "Wa iżal-jannatu uzlifat.",
+        "arabic_words": [
+            "وَاِذَا",
+            "الْجَنَّةُ",
+            "اُزْلِفَتْۖ"
+        ],
+        "translation": "dan apabila surga didekatkan, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5814,
+        "surah_id": 81,
+        "ayah": 14,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+        "kitabah": "عَلِمَتْ نَفْسٌ مَّآ اَحْضَرَتْۗ",
+        "latin": "‘Alimat nafsum mā aḥḍarat.",
+        "arabic_words": [
+            "عَلِمَتْ",
+            "نَفْسٌ",
+            "مَّآ",
+            "اَحْضَرَتْۗ"
+        ],
+        "translation": "setiap jiwa akan mengetahui apa yang telah dikerjakannya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5815,
+        "surah_id": 81,
+        "ayah": 15,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+        "kitabah": "فَلَآ اُقْسِمُ بِالْخُنَّسِۙ",
+        "latin": "Falā uqsimu bil-khunnas(i).",
+        "arabic_words": [
+            "فَلَآ",
+            "اُقْسِمُ",
+            "بِالْخُنَّسِۙ"
+        ],
+        "translation": "Aku bersumpah demi bintang-bintang",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5816,
+        "surah_id": 81,
+        "ayah": 16,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الْجَوَارِ الْكُنَّسِۙ",
+        "kitabah": "الْجَوَارِ الْكُنَّسِۙ",
+        "latin": "Al-jawāril-kunnas(i).",
+        "arabic_words": [
+            "الْجَوَارِ",
+            "الْكُنَّسِۙ"
+        ],
+        "translation": "yang beredar lagi terbenam, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5817,
+        "surah_id": 81,
+        "ayah": 17,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+        "kitabah": "وَالَّيْلِ اِذَا عَسْعَسَۙ",
+        "latin": "Wal-laili iżā ‘as‘as(a).",
+        "arabic_words": [
+            "وَالَّيْلِ",
+            "اِذَا",
+            "عَسْعَسَۙ"
+        ],
+        "translation": "demi malam apabila telah larut,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5818,
+        "surah_id": 81,
+        "ayah": 18,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+        "kitabah": "وَالصُّبْحِ اِذَا تَنَفَّسَۙ",
+        "latin": "Waṣ-ṣubḥi iżā tanaffas(a).",
+        "arabic_words": [
+            "وَالصُّبْحِ",
+            "اِذَا",
+            "تَنَفَّسَۙ"
+        ],
+        "translation": "demi subuh apabila (fajar) telah menyingsing, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5819,
+        "surah_id": 81,
+        "ayah": 19,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+        "kitabah": "اِنَّهٗ لَقَوْلُ رَسُوْلٍ كَرِيْمٍۙ",
+        "latin": "Innahū laqaulu rasūlin karīm(in).",
+        "arabic_words": [
+            "اِنَّهٗ",
+            "لَقَوْلُ",
+            "رَسُوْلٍ",
+            "كَرِيْمٍۙ"
+        ],
+        "translation": "sesungguhnya (Al-Qur’an) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5820,
+        "surah_id": 81,
+        "ayah": 20,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+        "kitabah": "ذِيْ قُوَّةٍ عِنْدَ ذِى الْعَرْشِ مَكِيْنٍۙ",
+        "latin": "Żī quwwatin ‘inda żil-‘arsyi makīn(in).",
+        "arabic_words": [
+            "ذِيْ",
+            "قُوَّةٍ",
+            "عِنْدَ",
+            "ذِى",
+            "الْعَرْشِ",
+            "مَكِيْنٍۙ"
+        ],
+        "translation": "yang memiliki kekuatan dan kedudukan tinggi di sisi (Allah) yang memiliki ʻArasy,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5821,
+        "surah_id": 81,
+        "ayah": 21,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+        "kitabah": "مُّطَاعٍ ثَمَّ اَمِيْنٍۗ",
+        "latin": "Muṭā‘in ṡamma amīn(in).",
+        "arabic_words": [
+            "مُّطَاعٍ",
+            "ثَمَّ",
+            "اَمِيْنٍۗ"
+        ],
+        "translation": "yang di sana (Jibril) ditaati lagi dipercaya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5822,
+        "surah_id": 81,
+        "ayah": 22,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+        "kitabah": "وَمَا صَاحِبُكُمْ بِمَجْنُوْنٍۚ",
+        "latin": "Wa mā ṣāḥibukum bimajnūn(in).",
+        "arabic_words": [
+            "وَمَا",
+            "صَاحِبُكُمْ",
+            "بِمَجْنُوْنٍۚ"
+        ],
+        "translation": "Temanmu (Nabi Muhammad) itu bukanlah orang gila. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5823,
+        "surah_id": 81,
+        "ayah": 23,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+        "kitabah": "وَلَقَدْ رَاٰهُ بِالْاُفُقِ الْمُبِيْنِۚ",
+        "latin": "Wa laqad ra'āhu bil-ufuqil-mubīn(i).",
+        "arabic_words": [
+            "وَلَقَدْ",
+            "رَاٰهُ",
+            "بِالْاُفُقِ",
+            "الْمُبِيْنِۚ"
+        ],
+        "translation": "Sungguh, dia (Nabi Muhammad) benar-benar telah melihatnya (Jibril) di ufuk yang terang. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5824,
+        "surah_id": 81,
+        "ayah": 24,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+        "kitabah": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِيْنٍۚ",
+        "latin": "Wa mā huwa ‘alal-gaibi biḍanīn(in).",
+        "arabic_words": [
+            "وَمَا",
+            "هُوَ",
+            "عَلَى",
+            "الْغَيْبِ",
+            "بِضَنِيْنٍۚ"
+        ],
+        "translation": "Dia (Nabi Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5825,
+        "surah_id": 81,
+        "ayah": 25,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+        "kitabah": "وَمَا هُوَ بِقَوْلِ شَيْطٰنٍ رَّجِيْمٍۚ",
+        "latin": "Wa mā huwa biqauli syaiṭānir rajīm(in).",
+        "arabic_words": [
+            "وَمَا",
+            "هُوَ",
+            "بِقَوْلِ",
+            "شَيْطٰنٍ",
+            "رَّجِيْمٍۚ"
+        ],
+        "translation": "(Al-Qur’an) itu bukanlah perkataan setan yang terkutuk.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5826,
+        "surah_id": 81,
+        "ayah": 26,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاَيْنَ تَذْهَبُوْنَۗ",
+        "kitabah": "فَاَيْنَ تَذْهَبُوْنَۗ",
+        "latin": "Fa aina tażhabūn(a).",
+        "arabic_words": [
+            "فَاَيْنَ",
+            "تَذْهَبُوْنَۗ"
+        ],
+        "translation": "Maka, ke manakah kamu akan pergi?747)",
+        "footnotes": "747) Setelah diterangkan bahwa Al-Qur’an itu benar-benar datang dari Allah dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, “Jalan manakah yang akan kamu tempuh?”",
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5827,
+        "surah_id": 81,
+        "ayah": 27,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+        "kitabah": "اِنْ هُوَ اِلَّا ذِكْرٌ لِّلْعٰلَمِيْنَۙ",
+        "latin": "In huwa illā żikrul lil-‘ālamīn(a).",
+        "arabic_words": [
+            "اِنْ",
+            "هُوَ",
+            "اِلَّا",
+            "ذِكْرٌ",
+            "لِّلْعٰلَمِيْنَۙ"
+        ],
+        "translation": "(Al-Qur’an) itu tidak lain, kecuali peringatan bagi semesta alam, ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5828,
+        "surah_id": 81,
+        "ayah": 28,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+        "kitabah": "لِمَنْ شَاۤءَ مِنْكُمْ اَنْ يَّسْتَقِيْمَۗ",
+        "latin": "Liman syā'a minkum ay yastaqīm(a).",
+        "arabic_words": [
+            "لِمَنْ",
+            "شَاۤءَ",
+            "مِنْكُمْ",
+            "اَنْ",
+            "يَّسْتَقِيْمَۗ"
+        ],
+        "translation": "(yaitu) bagi siapa di antaramu yang hendak menempuh jalan yang lurus. ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5829,
+        "surah_id": 81,
+        "ayah": 29,
+        "page": 586,
+        "quarter_hizb": 59.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+        "kitabah": "وَمَا تَشَاۤءُوْنَ اِلَّآ اَنْ يَّشَاۤءَ اللّٰهُ رَبُّ الْعٰلَمِيْنَ ࣖ",
+        "latin": "Wa mā tasyā'ūna illā ay yasyā'allāhu rabbul-‘ālamīn(a).",
+        "arabic_words": [
+            "وَمَا",
+            "تَشَاۤءُوْنَ",
+            "اِلَّآ",
+            "اَنْ",
+            "يَّشَاۤءَ",
+            "اللّٰهُ",
+            "رَبُّ",
+            "الْعٰلَمِيْنَ ࣖ"
+        ],
+        "translation": "Kamu tidak dapat berkehendak, kecuali apabila dikehendaki Allah, Tuhan semesta alam.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 81,
+            "arabic": "التّكوير",
+            "latin": "At-Takwīr",
+            "transliteration": "At-Takwir",
+            "translation": "Penggulungan",
+            "num_ayah": 29,
+            "page": 586,
+            "location": "Makkiyah"
+        }
+    }
+]

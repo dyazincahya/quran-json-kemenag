@@ -1,0 +1,160 @@
+[
+    {
+        "id": 6217,
+        "surah_id": 111,
+        "ayah": 1,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+        "kitabah": "تَبَّتْ يَدَآ اَبِيْ لَهَبٍ وَّتَبَّۗ",
+        "latin": "Tabbat yadā abī lahabiw wa tabb(a).",
+        "arabic_words": [
+            "تَبَّتْ",
+            "يَدَآ",
+            "اَبِيْ",
+            "لَهَبٍ",
+            "وَّتَبَّۗ"
+        ],
+        "translation": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia.763)",
+        "footnotes": "763) Yang dimaksud dengan kedua tangan Abu Lahab adalah Abu Lahab itu sendiri.",
+        "updated_at": null,
+        "surah": {
+            "id": 111,
+            "arabic": "اللّهب",
+            "latin": "Al-Lahab",
+            "transliteration": "Al-Lahab",
+            "translation": "Gejolak Api",
+            "num_ayah": 5,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6218,
+        "surah_id": 111,
+        "ayah": 2,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+        "kitabah": "مَآ اَغْنٰى عَنْهُ مَالُهٗ وَمَا كَسَبَۗ",
+        "latin": "Mā agnā ‘anhu māluhū wa mā kasab(a).",
+        "arabic_words": [
+            "مَآ",
+            "اَغْنٰى",
+            "عَنْهُ",
+            "مَالُهٗ",
+            "وَمَا",
+            "كَسَبَۗ"
+        ],
+        "translation": "Tidaklah berguna baginya hartanya dan apa yang dia usahakan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 111,
+            "arabic": "اللّهب",
+            "latin": "Al-Lahab",
+            "transliteration": "Al-Lahab",
+            "translation": "Gejolak Api",
+            "num_ayah": 5,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6219,
+        "surah_id": 111,
+        "ayah": 3,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+        "kitabah": "سَيَصْلٰى نَارًا ذَاتَ لَهَبٍۙ",
+        "latin": "Sayaṣlā nāran żāta lahab(in).",
+        "arabic_words": [
+            "سَيَصْلٰى",
+            "نَارًا",
+            "ذَاتَ",
+            "لَهَبٍۙ"
+        ],
+        "translation": "Kelak dia akan memasuki api yang bergejolak (neraka),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 111,
+            "arabic": "اللّهب",
+            "latin": "Al-Lahab",
+            "transliteration": "Al-Lahab",
+            "translation": "Gejolak Api",
+            "num_ayah": 5,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6220,
+        "surah_id": 111,
+        "ayah": 4,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+        "kitabah": "وَّامْرَاَتُهٗ ۗحَمَّالَةَ الْحَطَبِۚ",
+        "latin": "Wamra'atuh(ū), ḥammālatal-ḥaṭab(i).",
+        "arabic_words": [
+            "وَّامْرَاَتُهٗۗ",
+            "حَمَّالَةَ",
+            "الْحَطَبِۚ"
+        ],
+        "translation": "(begitu pula) istrinya, pembawa kayu bakar (penyebar fitnah). ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 111,
+            "arabic": "اللّهب",
+            "latin": "Al-Lahab",
+            "transliteration": "Al-Lahab",
+            "translation": "Gejolak Api",
+            "num_ayah": 5,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6221,
+        "surah_id": 111,
+        "ayah": 5,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+        "kitabah": "فِيْ جِيْدِهَا حَبْلٌ مِّنْ مَّسَدٍ ࣖ",
+        "latin": "Fī jīdihā ḥablum mim masad(in).",
+        "arabic_words": [
+            "فِيْ",
+            "جِيْدِهَا",
+            "حَبْلٌ",
+            "مِّنْ",
+            "مَّسَدٍ ࣖ"
+        ],
+        "translation": "Di lehernya ada tali dari sabut yang dipintal.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 111,
+            "arabic": "اللّهب",
+            "latin": "Al-Lahab",
+            "transliteration": "Al-Lahab",
+            "translation": "Gejolak Api",
+            "num_ayah": 5,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    }
+]

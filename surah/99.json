@@ -1,0 +1,255 @@
+[
+    {
+        "id": 6139,
+        "surah_id": 99,
+        "ayah": 1,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+        "kitabah": "اِذَا زُلْزِلَتِ الْاَرْضُ زِلْزَالَهَاۙ",
+        "latin": "Iżā zulzilatil-arḍu zilzālahā.",
+        "arabic_words": [
+            "اِذَا",
+            "زُلْزِلَتِ",
+            "الْاَرْضُ",
+            "زِلْزَالَهَاۙ"
+        ],
+        "translation": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6140,
+        "surah_id": 99,
+        "ayah": 2,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+        "kitabah": "وَاَخْرَجَتِ الْاَرْضُ اَثْقَالَهَاۙ",
+        "latin": "Wa akhrajatil-arḍu aṡqālahā.",
+        "arabic_words": [
+            "وَاَخْرَجَتِ",
+            "الْاَرْضُ",
+            "اَثْقَالَهَاۙ"
+        ],
+        "translation": "bumi mengeluarkan isi perutnya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6141,
+        "surah_id": 99,
+        "ayah": 3,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+        "kitabah": "وَقَالَ الْاِنْسَانُ مَا لَهَاۚ",
+        "latin": "Wa qālal-insānu mā lahā.",
+        "arabic_words": [
+            "وَقَالَ",
+            "الْاِنْسَانُ",
+            "مَا",
+            "لَهَاۚ"
+        ],
+        "translation": "dan manusia bertanya, “Apa yang terjadi dengannya (bumi)?”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6142,
+        "surah_id": 99,
+        "ayah": 4,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+        "kitabah": "يَوْمَىِٕذٍ تُحَدِّثُ اَخْبَارَهَاۙ",
+        "latin": "Yauma'iżin tuḥaddiṡu akhbārahā.",
+        "arabic_words": [
+            "يَوْمَىِٕذٍ",
+            "تُحَدِّثُ",
+            "اَخْبَارَهَاۙ"
+        ],
+        "translation": "Pada hari itu (bumi) menyampaikan berita (tentang apa yang diperbuat manusia di atasnya)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6143,
+        "surah_id": 99,
+        "ayah": 5,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+        "kitabah": "بِاَنَّ رَبَّكَ اَوْحٰى لَهَاۗ",
+        "latin": "Bi'anna rabbaka auḥā lahā.",
+        "arabic_words": [
+            "بِاَنَّ",
+            "رَبَّكَ",
+            "اَوْحٰى",
+            "لَهَاۗ"
+        ],
+        "translation": "karena sesungguhnya Tuhanmu telah memerintahkan (yang demikian itu) kepadanya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6144,
+        "surah_id": 99,
+        "ayah": 6,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+        "kitabah": "يَوْمَىِٕذٍ يَّصْدُرُ النَّاسُ اَشْتَاتًا ەۙ لِّيُرَوْا اَعْمَالَهُمْۗ",
+        "latin": "Yauma'iżiy yaṣdurun-nāsu asytātā(n), liyurau a‘mālahum.",
+        "arabic_words": [
+            "يَوْمَىِٕذٍ",
+            "يَّصْدُرُ",
+            "النَّاسُ",
+            "اَشْتَاتًا",
+            "ەۙ",
+            "لِّيُرَوْا",
+            "اَعْمَالَهُمْۗ"
+        ],
+        "translation": "Pada hari itu manusia keluar (dari kuburnya) dalam keadaan terpencar untuk diperlihatkan kepada mereka (balasan) semua perbuatan mereka.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6145,
+        "surah_id": 99,
+        "ayah": 7,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+        "kitabah": "فَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَّرَهٗۚ",
+        "latin": "Famay ya‘mal miṡqāla żarratin khairay yarah(ū).",
+        "arabic_words": [
+            "فَمَنْ",
+            "يَّعْمَلْ",
+            "مِثْقَالَ",
+            "ذَرَّةٍ",
+            "خَيْرًا",
+            "يَّرَهٗۚ"
+        ],
+        "translation": "Siapa yang mengerjakan kebaikan seberat zarah, dia akan melihat (balasan)-nya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6146,
+        "surah_id": 99,
+        "ayah": 8,
+        "page": 599,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+        "kitabah": "وَمَنْ يَّعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَّرَهٗ ࣖ",
+        "latin": "Wa may ya‘mal miṡqāla żarratin syarray yarah(ū).",
+        "arabic_words": [
+            "وَمَنْ",
+            "يَّعْمَلْ",
+            "مِثْقَالَ",
+            "ذَرَّةٍ",
+            "شَرًّا",
+            "يَّرَهٗ ࣖ"
+        ],
+        "translation": "Siapa yang mengerjakan kejahatan seberat zarah, dia akan melihat (balasan)-nya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 99,
+            "arabic": "الزّلزلة",
+            "latin": "Az-Zalzalah",
+            "transliteration": "Az-Zalzalah",
+            "translation": "Guncangan",
+            "num_ayah": 8,
+            "page": 599,
+            "location": "Madaniyah"
+        }
+    }
+]

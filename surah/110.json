@@ -1,0 +1,102 @@
+[
+    {
+        "id": 6214,
+        "surah_id": 110,
+        "ayah": 1,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+        "kitabah": "اِذَا جَاۤءَ نَصْرُ اللّٰهِ وَالْفَتْحُۙ",
+        "latin": "Iżā jā'a naṣrullāhi wal-fatḥ(u).",
+        "arabic_words": [
+            "اِذَا",
+            "جَاۤءَ",
+            "نَصْرُ",
+            "اللّٰهِ",
+            "وَالْفَتْحُۙ"
+        ],
+        "translation": "Apabila telah datang pertolongan Allah dan kemenangan",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 110,
+            "arabic": "النّصر",
+            "latin": "An-Naṣr",
+            "transliteration": "An-Nasr",
+            "translation": "Pertolongan",
+            "num_ayah": 3,
+            "page": 603,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6215,
+        "surah_id": 110,
+        "ayah": 2,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+        "kitabah": "وَرَاَيْتَ النَّاسَ يَدْخُلُوْنَ فِيْ دِيْنِ اللّٰهِ اَفْوَاجًاۙ",
+        "latin": "Wa ra'aitan-nāsa yadkhulūna fī dīnillāhi afwājā(n).",
+        "arabic_words": [
+            "وَرَاَيْتَ",
+            "النَّاسَ",
+            "يَدْخُلُوْنَ",
+            "فِيْ",
+            "دِيْنِ",
+            "اللّٰهِ",
+            "اَفْوَاجًاۙ"
+        ],
+        "translation": "dan engkau melihat manusia berbondong-bondong masuk agama Allah,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 110,
+            "arabic": "النّصر",
+            "latin": "An-Naṣr",
+            "transliteration": "An-Nasr",
+            "translation": "Pertolongan",
+            "num_ayah": 3,
+            "page": 603,
+            "location": "Madaniyah"
+        }
+    },
+    {
+        "id": 6216,
+        "surah_id": 110,
+        "ayah": 3,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+        "kitabah": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُۗ اِنَّهٗ كَانَ تَوَّابًا ࣖ",
+        "latin": "Fasabbiḥ biḥamdi rabbika wastagfirh(u), innahū kāna tawwābā(n).",
+        "arabic_words": [
+            "فَسَبِّحْ",
+            "بِحَمْدِ",
+            "رَبِّكَ",
+            "وَاسْتَغْفِرْهُۗ",
+            "اِنَّهٗ",
+            "كَانَ",
+            "تَوَّابًا ࣖ"
+        ],
+        "translation": "bertasbihlah dengan memuji Tuhanmu dan mohonlah ampun kepada-Nya. Sesungguhnya Dia Maha Penerima tobat.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 110,
+            "arabic": "النّصر",
+            "latin": "An-Naṣr",
+            "transliteration": "An-Nasr",
+            "translation": "Pertolongan",
+            "num_ayah": 3,
+            "page": 603,
+            "location": "Madaniyah"
+        }
+    }
+]

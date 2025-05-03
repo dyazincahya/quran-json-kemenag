@@ -1,0 +1,128 @@
+[
+    {
+        "id": 6194,
+        "surah_id": 106,
+        "ayah": 1,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لِاِيْلٰفِ قُرَيْشٍۙ",
+        "kitabah": "لِاِيْلٰفِ قُرَيْشٍۙ",
+        "latin": "Li'īlāfi quraisy(in).",
+        "arabic_words": [
+            "لِاِيْلٰفِ",
+            "قُرَيْشٍۙ"
+        ],
+        "translation": "Disebabkan oleh kebiasaan orang-orang Quraisy,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " قريش",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6195,
+        "surah_id": 106,
+        "ayah": 2,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+        "kitabah": "اٖلٰفِهِمْ رِحْلَةَ الشِّتَاۤءِ وَالصَّيْفِۚ",
+        "latin": "´lāfihim riḥlatasy-syitā'i waṣ-ṣaif(i).",
+        "arabic_words": [
+            "اٖلٰفِهِمْ",
+            "رِحْلَةَ",
+            "الشِّتَاۤءِ",
+            "وَالصَّيْفِۚ"
+        ],
+        "translation": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas (sehingga mendapatkan banyak keuntungan),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " قريش",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6196,
+        "surah_id": 106,
+        "ayah": 3,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+        "kitabah": "فَلْيَعْبُدُوْا رَبَّ هٰذَا الْبَيْتِۙ",
+        "latin": "Falya‘budū rabba hāżal-bait(i).",
+        "arabic_words": [
+            "فَلْيَعْبُدُوْا",
+            "رَبَّ",
+            "هٰذَا",
+            "الْبَيْتِۙ"
+        ],
+        "translation": "maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka‘bah)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " قريش",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6197,
+        "surah_id": 106,
+        "ayah": 4,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+        "kitabah": "الَّذِيْٓ اَطْعَمَهُمْ مِّنْ جُوْعٍ ەۙ وَّاٰمَنَهُمْ مِّنْ خَوْفٍ ࣖ",
+        "latin": "Allażī aṭ‘amahum min jū‘(in), wa āmanahum min khauf(in).",
+        "arabic_words": [
+            "الَّذِيْٓ",
+            "اَطْعَمَهُمْ",
+            "مِّنْ",
+            "جُوْعٍ",
+            "ەۙ",
+            "وَّاٰمَنَهُمْ",
+            "مِّنْ",
+            "خَوْفٍ ࣖ"
+        ],
+        "translation": "yang telah memberi mereka makanan untuk menghilangkan lapar dan mengamankan mereka dari rasa takut.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 106,
+            "arabic": " قريش",
+            "latin": "Quraisy",
+            "transliteration": "Quraisy",
+            "translation": "Orang Quraisy",
+            "num_ayah": 4,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    }
+]

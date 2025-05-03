@@ -1,0 +1,216 @@
+[
+    {
+        "id": 6198,
+        "surah_id": 107,
+        "ayah": 1,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+        "kitabah": "اَرَءَيْتَ الَّذِيْ يُكَذِّبُ بِالدِّيْنِۗ",
+        "latin": "Ara'aital-lażī yukażżibu bid-dīn(i).",
+        "arabic_words": [
+            "اَرَءَيْتَ",
+            "الَّذِيْ",
+            "يُكَذِّبُ",
+            "بِالدِّيْنِۗ"
+        ],
+        "translation": "Tahukah kamu (orang) yang mendustakan agama?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6199,
+        "surah_id": 107,
+        "ayah": 2,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+        "kitabah": "فَذٰلِكَ الَّذِيْ يَدُعُّ الْيَتِيْمَۙ",
+        "latin": "Fa żālikal-lażī yadu‘‘ul-yatīm(a).",
+        "arabic_words": [
+            "فَذٰلِكَ",
+            "الَّذِيْ",
+            "يَدُعُّ",
+            "الْيَتِيْمَۙ"
+        ],
+        "translation": "Itulah orang yang menghardik anak yatim",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6200,
+        "surah_id": 107,
+        "ayah": 3,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+        "kitabah": "وَلَا يَحُضُّ عَلٰى طَعَامِ الْمِسْكِيْنِۗ",
+        "latin": "Wa lā yaḥuḍḍu ‘alā ṭa‘āmil-miskīn(i).",
+        "arabic_words": [
+            "وَلَا",
+            "يَحُضُّ",
+            "عَلٰى",
+            "طَعَامِ",
+            "الْمِسْكِيْنِۗ"
+        ],
+        "translation": "dan tidak menganjurkan untuk memberi makan orang miskin.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6201,
+        "surah_id": 107,
+        "ayah": 4,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+        "kitabah": "فَوَيْلٌ لِّلْمُصَلِّيْنَۙ",
+        "latin": "Fawailul lil-muṣallīn(a).",
+        "arabic_words": [
+            "فَوَيْلٌ",
+            "لِّلْمُصَلِّيْنَۙ"
+        ],
+        "translation": "Celakalah orang-orang yang melaksanakan salat,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6202,
+        "surah_id": 107,
+        "ayah": 5,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+        "kitabah": "الَّذِيْنَ هُمْ عَنْ صَلَاتِهِمْ سَاهُوْنَۙ",
+        "latin": "Allażīna hum ‘an ṣalātihim sāhūn(a).",
+        "arabic_words": [
+            "الَّذِيْنَ",
+            "هُمْ",
+            "عَنْ",
+            "صَلَاتِهِمْ",
+            "سَاهُوْنَۙ"
+        ],
+        "translation": "(yaitu) yang lalai terhadap salatnya,761)",
+        "footnotes": "761) Melalaikan salat mencakup lalai akan waktu dan tujuan salat serta bermalasan dalam mengerjakannya.",
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6203,
+        "surah_id": 107,
+        "ayah": 6,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+        "kitabah": "الَّذِيْنَ هُمْ يُرَاۤءُوْنَۙ",
+        "latin": "Allażīna hum yurā'ūn(a).",
+        "arabic_words": [
+            "الَّذِيْنَ",
+            "هُمْ",
+            "يُرَاۤءُوْنَۙ"
+        ],
+        "translation": "yang berbuat riya,762)",
+        "footnotes": "762) Riya adalah melakukan sesuatu perbuatan tidak untuk mencari keridaan Allah, tetapi untuk mencari pujian atau kemasyhuran di masyarakat.",
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6204,
+        "surah_id": 107,
+        "ayah": 7,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+        "kitabah": "وَيَمْنَعُوْنَ الْمَاعُوْنَ ࣖ",
+        "latin": "Wa yamna‘ūnal-mā‘ūn(a).",
+        "arabic_words": [
+            "وَيَمْنَعُوْنَ",
+            "الْمَاعُوْنَ ࣖ"
+        ],
+        "translation": "dan enggan (memberi) bantuan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 107,
+            "arabic": " الماعون",
+            "latin": "Al-Mā‘ūn",
+            "transliteration": "Al-Ma‘un",
+            "translation": "Bantuan",
+            "num_ayah": 7,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    }
+]

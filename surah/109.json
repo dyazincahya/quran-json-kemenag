@@ -1,0 +1,190 @@
+[
+    {
+        "id": 6208,
+        "surah_id": 109,
+        "ayah": 1,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+        "kitabah": "قُلْ يٰٓاَيُّهَا الْكٰفِرُوْنَۙ",
+        "latin": "Qul yā ayyuhal-kāfirūn(a).",
+        "arabic_words": [
+            "قُلْ",
+            "يٰٓاَيُّهَا",
+            "الْكٰفِرُوْنَۙ"
+        ],
+        "translation": "Katakanlah (Nabi Muhammad), “Wahai orang-orang kafir,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6209,
+        "surah_id": 109,
+        "ayah": 2,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+        "kitabah": "لَآ اَعْبُدُ مَا تَعْبُدُوْنَۙ",
+        "latin": "Lā a‘budu mā ta‘budūn(a).",
+        "arabic_words": [
+            "لَآ",
+            "اَعْبُدُ",
+            "مَا",
+            "تَعْبُدُوْنَۙ"
+        ],
+        "translation": "aku tidak akan menyembah apa yang kamu sembah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6210,
+        "surah_id": 109,
+        "ayah": 3,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+        "kitabah": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۚ",
+        "latin": "Wa lā antum ‘ābidūna mā a‘bud(u).",
+        "arabic_words": [
+            "وَلَآ",
+            "اَنْتُمْ",
+            "عٰبِدُوْنَ",
+            "مَآ",
+            "اَعْبُدُۚ"
+        ],
+        "translation": "Kamu juga bukan penyembah apa yang aku sembah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6211,
+        "surah_id": 109,
+        "ayah": 4,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+        "kitabah": "وَلَآ اَنَا۠ عَابِدٌ مَّا عَبَدْتُّمْۙ",
+        "latin": "Wa lā ana ‘ābidum mā ‘abattum.",
+        "arabic_words": [
+            "وَلَآ",
+            "اَنَا۠",
+            "عَابِدٌ",
+            "مَّا",
+            "عَبَدْتُّمْۙ"
+        ],
+        "translation": "Aku juga tidak pernah menjadi penyembah apa yang kamu sembah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6212,
+        "surah_id": 109,
+        "ayah": 5,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+        "kitabah": "وَلَآ اَنْتُمْ عٰبِدُوْنَ مَآ اَعْبُدُۗ",
+        "latin": "Wa lā antum ‘ābidūna mā a‘bud(u).",
+        "arabic_words": [
+            "وَلَآ",
+            "اَنْتُمْ",
+            "عٰبِدُوْنَ",
+            "مَآ",
+            "اَعْبُدُۗ"
+        ],
+        "translation": "Kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6213,
+        "surah_id": 109,
+        "ayah": 6,
+        "page": 603,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+        "kitabah": "لَكُمْ دِيْنُكُمْ وَلِيَ دِيْنِ ࣖ",
+        "latin": "Lakum dīnukum wa liya dīn(i).",
+        "arabic_words": [
+            "لَكُمْ",
+            "دِيْنُكُمْ",
+            "وَلِيَ",
+            "دِيْنِ ࣖ"
+        ],
+        "translation": "Untukmu agamamu dan untukku agamaku.”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 109,
+            "arabic": " الكٰفرون",
+            "latin": "Al-Kāfirūn",
+            "transliteration": "Al-Kafirun",
+            "translation": "Orang-Orang kafir",
+            "num_ayah": 6,
+            "page": 603,
+            "location": "Makkiyah"
+        }
+    }
+]

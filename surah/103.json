@@ -1,0 +1,98 @@
+[
+    {
+        "id": 6177,
+        "surah_id": 103,
+        "ayah": 1,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْعَصْرِۙ",
+        "kitabah": "وَالْعَصْرِۙ",
+        "latin": "Wal-‘aṣr(i).",
+        "arabic_words": [
+            "وَالْعَصْرِۙ"
+        ],
+        "translation": "Demi masa,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " العصر",
+            "latin": "Al-‘Aṣr",
+            "transliteration": "Al-‘Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6178,
+        "surah_id": 103,
+        "ayah": 2,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+        "kitabah": "اِنَّ الْاِنْسَانَ لَفِيْ خُسْرٍۙ",
+        "latin": "Innal-insāna lafī khusr(in).",
+        "arabic_words": [
+            "اِنَّ",
+            "الْاِنْسَانَ",
+            "لَفِيْ",
+            "خُسْرٍۙ"
+        ],
+        "translation": "sesungguhnya manusia benar-benar berada dalam kerugian,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " العصر",
+            "latin": "Al-‘Aṣr",
+            "transliteration": "Al-‘Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6179,
+        "surah_id": 103,
+        "ayah": 3,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+        "kitabah": "اِلَّا الَّذِيْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ ەۙ وَتَوَاصَوْا بِالصَّبْرِ ࣖ",
+        "latin": "Illal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti wa tawāṣau bil-ḥaqq(i), wa tawāṣau biṣ-ṣabr(i).",
+        "arabic_words": [
+            "اِلَّا",
+            "الَّذِيْنَ",
+            "اٰمَنُوْا",
+            "وَعَمِلُوا",
+            "الصّٰلِحٰتِ",
+            "وَتَوَاصَوْا",
+            "بِالْحَقِّ",
+            "ەۙ",
+            "وَتَوَاصَوْا",
+            "بِالصَّبْرِ ࣖ"
+        ],
+        "translation": "kecuali orang-orang yang beriman dan beramal saleh serta saling menasihati untuk kebenaran dan kesabaran.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 103,
+            "arabic": " العصر",
+            "latin": "Al-‘Aṣr",
+            "transliteration": "Al-‘Asr",
+            "translation": "Masa",
+            "num_ayah": 3,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    }
+]

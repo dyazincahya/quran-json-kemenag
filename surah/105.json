@@ -1,0 +1,160 @@
+[
+    {
+        "id": 6189,
+        "surah_id": 105,
+        "ayah": 1,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ",
+        "kitabah": "اَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِاَصْحٰبِ الْفِيْلِۗ",
+        "latin": "Alam tara kaifa fa‘ala rabbuka bi'aṣḥābil-fīl(i).",
+        "arabic_words": [
+            "اَلَمْ",
+            "تَرَ",
+            "كَيْفَ",
+            "فَعَلَ",
+            "رَبُّكَ",
+            "بِاَصْحٰبِ",
+            "الْفِيْلِۗ"
+        ],
+        "translation": "Tidakkah engkau (Nabi Muhammad) memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 105,
+            "arabic": " الفيل",
+            "latin": "Al-Fīl",
+            "transliteration": "Al-Fil",
+            "translation": "Gajah",
+            "num_ayah": 5,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6190,
+        "surah_id": 105,
+        "ayah": 2,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ",
+        "kitabah": "اَلَمْ يَجْعَلْ كَيْدَهُمْ فِيْ تَضْلِيْلٍۙ",
+        "latin": "Alam yaj‘al kaidahum fī taḍlīl(in).",
+        "arabic_words": [
+            "اَلَمْ",
+            "يَجْعَلْ",
+            "كَيْدَهُمْ",
+            "فِيْ",
+            "تَضْلِيْلٍۙ"
+        ],
+        "translation": "Bukankah Dia telah menjadikan tipu daya mereka itu sia-sia?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 105,
+            "arabic": " الفيل",
+            "latin": "Al-Fīl",
+            "transliteration": "Al-Fil",
+            "translation": "Gajah",
+            "num_ayah": 5,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6191,
+        "surah_id": 105,
+        "ayah": 3,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ",
+        "kitabah": "وَّاَرْسَلَ عَلَيْهِمْ طَيْرًا اَبَابِيْلَۙ",
+        "latin": "Wa arsala ‘alaihim ṭairan abābīl(a).",
+        "arabic_words": [
+            "وَّاَرْسَلَ",
+            "عَلَيْهِمْ",
+            "طَيْرًا",
+            "اَبَابِيْلَۙ"
+        ],
+        "translation": "Dia mengirimkan kepada mereka burung yang berbondong-bondong",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 105,
+            "arabic": " الفيل",
+            "latin": "Al-Fīl",
+            "transliteration": "Al-Fil",
+            "translation": "Gajah",
+            "num_ayah": 5,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6192,
+        "surah_id": 105,
+        "ayah": 4,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ",
+        "kitabah": "تَرْمِيْهِمْ بِحِجَارَةٍ مِّنْ سِجِّيْلٍۙ",
+        "latin": "Tarmīhim biḥijāratim min sijjīl(in).",
+        "arabic_words": [
+            "تَرْمِيْهِمْ",
+            "بِحِجَارَةٍ",
+            "مِّنْ",
+            "سِجِّيْلٍۙ"
+        ],
+        "translation": "yang melempari mereka dengan batu dari tanah liat yang dibakar,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 105,
+            "arabic": " الفيل",
+            "latin": "Al-Fīl",
+            "transliteration": "Al-Fil",
+            "translation": "Gajah",
+            "num_ayah": 5,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6193,
+        "surah_id": 105,
+        "ayah": 5,
+        "page": 601,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ ࣖ ",
+        "kitabah": "فَجَعَلَهُمْ كَعَصْفٍ مَّأْكُوْلٍ ࣖ ",
+        "latin": "Fa ja‘alahum ka‘aṣfim ma'kūl(in).",
+        "arabic_words": [
+            "فَجَعَلَهُمْ",
+            "كَعَصْفٍ",
+            "مَّأْكُوْلٍ ࣖ"
+        ],
+        "translation": "sehingga Dia menjadikan mereka seperti daun-daun yang dimakan (ulat).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 105,
+            "arabic": " الفيل",
+            "latin": "Al-Fīl",
+            "transliteration": "Al-Fil",
+            "translation": "Gajah",
+            "num_ayah": 5,
+            "page": 601,
+            "location": "Makkiyah"
+        }
+    }
+]

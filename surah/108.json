@@ -1,0 +1,93 @@
+[
+    {
+        "id": 6205,
+        "surah_id": 108,
+        "ayah": 1,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+        "kitabah": "اِنَّآ اَعْطَيْنٰكَ الْكَوْثَرَۗ",
+        "latin": "Innā a‘ṭainākal-kauṡar(a).",
+        "arabic_words": [
+            "اِنَّآ",
+            "اَعْطَيْنٰكَ",
+            "الْكَوْثَرَۗ"
+        ],
+        "translation": "Sesungguhnya Kami telah memberimu (Nabi Muhammad) nikmat yang banyak.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 108,
+            "arabic": " الكوثر",
+            "latin": "Al-Kauṡar",
+            "transliteration": "Al-Kausar",
+            "translation": "Nikmat Yang Banyak",
+            "num_ayah": 3,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6206,
+        "surah_id": 108,
+        "ayah": 2,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+        "kitabah": "فَصَلِّ لِرَبِّكَ وَانْحَرْۗ",
+        "latin": "Faṣalli lirabbika wanḥar.",
+        "arabic_words": [
+            "فَصَلِّ",
+            "لِرَبِّكَ",
+            "وَانْحَرْۗ"
+        ],
+        "translation": "Maka, laksanakanlah salat karena Tuhanmu dan berkurbanlah!",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 108,
+            "arabic": " الكوثر",
+            "latin": "Al-Kauṡar",
+            "transliteration": "Al-Kausar",
+            "translation": "Nikmat Yang Banyak",
+            "num_ayah": 3,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6207,
+        "surah_id": 108,
+        "ayah": 3,
+        "page": 602,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+        "kitabah": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ ࣖ",
+        "latin": "Inna syāni'aka huwal-abtar(u).",
+        "arabic_words": [
+            "اِنَّ",
+            "شَانِئَكَ",
+            "هُوَ",
+            "الْاَبْتَرُ ࣖ"
+        ],
+        "translation": "Sesungguhnya orang yang membencimu, dialah yang terputus (dari rahmat Allah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 108,
+            "arabic": " الكوثر",
+            "latin": "Al-Kauṡar",
+            "transliteration": "Al-Kausar",
+            "translation": "Nikmat Yang Banyak",
+            "num_ayah": 3,
+            "page": 602,
+            "location": "Makkiyah"
+        }
+    }
+]

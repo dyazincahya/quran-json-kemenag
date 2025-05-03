@@ -1,0 +1,461 @@
+[
+    {
+        "id": 6044,
+        "surah_id": 91,
+        "ayah": 1,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+        "kitabah": "وَالشَّمْسِ وَضُحٰىهَاۖ",
+        "latin": "Wasy-syamsi wa ḍuḥāhā.",
+        "arabic_words": [
+            "وَالشَّمْسِ",
+            "وَضُحٰىهَاۖ"
+        ],
+        "translation": "Demi matahari dan sinarnya pada waktu duha (ketika matahari naik sepenggalah),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6045,
+        "surah_id": 91,
+        "ayah": 2,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+        "kitabah": "وَالْقَمَرِ اِذَا تَلٰىهَاۖ",
+        "latin": "Wal-qamari iżā talāhā.",
+        "arabic_words": [
+            "وَالْقَمَرِ",
+            "اِذَا",
+            "تَلٰىهَاۖ"
+        ],
+        "translation": "demi bulan saat mengiringinya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6046,
+        "surah_id": 91,
+        "ayah": 3,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+        "kitabah": "وَالنَّهَارِ اِذَا جَلّٰىهَاۖ",
+        "latin": "Wan-nahāri iżā jallāhā.",
+        "arabic_words": [
+            "وَالنَّهَارِ",
+            "اِذَا",
+            "جَلّٰىهَاۖ"
+        ],
+        "translation": "demi siang saat menampakkannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6047,
+        "surah_id": 91,
+        "ayah": 4,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+        "kitabah": "وَالَّيْلِ اِذَا يَغْشٰىهَاۖ",
+        "latin": "Wal-laili iżā yagsyāhā.",
+        "arabic_words": [
+            "وَالَّيْلِ",
+            "اِذَا",
+            "يَغْشٰىهَاۖ"
+        ],
+        "translation": "demi malam saat menutupinya (gelap gulita),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6048,
+        "surah_id": 91,
+        "ayah": 5,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+        "kitabah": "وَالسَّمَاۤءِ وَمَا بَنٰىهَاۖ",
+        "latin": "Was-samā'i wa mā banāhā.",
+        "arabic_words": [
+            "وَالسَّمَاۤءِ",
+            "وَمَا",
+            "بَنٰىهَاۖ"
+        ],
+        "translation": "demi langit serta pembuatannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6049,
+        "surah_id": 91,
+        "ayah": 6,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+        "kitabah": "وَالْاَرْضِ وَمَا طَحٰىهَاۖ",
+        "latin": "Wal-arḍi wa mā ṭaḥāhā.",
+        "arabic_words": [
+            "وَالْاَرْضِ",
+            "وَمَا",
+            "طَحٰىهَاۖ"
+        ],
+        "translation": " demi bumi serta penghamparannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6050,
+        "surah_id": 91,
+        "ayah": 7,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+        "kitabah": "وَنَفْسٍ وَّمَا سَوّٰىهَاۖ",
+        "latin": "Wa nafsiw wa mā sawwāhā.",
+        "arabic_words": [
+            "وَنَفْسٍ",
+            "وَّمَا",
+            "سَوّٰىهَاۖ"
+        ],
+        "translation": "dan demi jiwa serta penyempurnaan (ciptaan)-nya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6051,
+        "surah_id": 91,
+        "ayah": 8,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+        "kitabah": "فَاَلْهَمَهَا فُجُوْرَهَا وَتَقْوٰىهَاۖ",
+        "latin": "Fa alhamahā fujūrahā wa taqwāhā.",
+        "arabic_words": [
+            "فَاَلْهَمَهَا",
+            "فُجُوْرَهَا",
+            "وَتَقْوٰىهَاۖ"
+        ],
+        "translation": "lalu Dia mengilhamkan kepadanya (jalan) kejahatan dan ketakwaannya,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6052,
+        "surah_id": 91,
+        "ayah": 9,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+        "kitabah": "قَدْ اَفْلَحَ مَنْ زَكّٰىهَاۖ",
+        "latin": "Qad aflaḥa man zakkāhā.",
+        "arabic_words": [
+            "قَدْ",
+            "اَفْلَحَ",
+            "مَنْ",
+            "زَكّٰىهَاۖ"
+        ],
+        "translation": "sungguh beruntung orang yang menyucikannya (jiwa itu)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6053,
+        "surah_id": 91,
+        "ayah": 10,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+        "kitabah": "وَقَدْ خَابَ مَنْ دَسّٰىهَاۗ",
+        "latin": "Wa qad khāba man dassāhā.",
+        "arabic_words": [
+            "وَقَدْ",
+            "خَابَ",
+            "مَنْ",
+            "دَسّٰىهَاۗ"
+        ],
+        "translation": "dan sungguh rugi orang yang mengotorinya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6054,
+        "surah_id": 91,
+        "ayah": 11,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ  ۖ",
+        "kitabah": "كَذَّبَتْ ثَمُوْدُ بِطَغْوٰىهَآ  ۖ",
+        "latin": "Każżabat ṡamūdu biṭagwāhā.",
+        "arabic_words": [
+            "كَذَّبَتْ",
+            "ثَمُوْدُ",
+            "بِطَغْوٰىهَآ ۖ"
+        ],
+        "translation": "(Kaum) Samud telah mendustakan (rasulnya) karena mereka melampaui batas ",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6055,
+        "surah_id": 91,
+        "ayah": 12,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+        "kitabah": "اِذِ انْۢبَعَثَ اَشْقٰىهَاۖ",
+        "latin": "Iżimba‘aṡa asyqāhā.",
+        "arabic_words": [
+            "اِذِ",
+            "انْۢبَعَثَ",
+            "اَشْقٰىهَاۖ"
+        ],
+        "translation": "ketika orang yang paling celaka di antara mereka bangkit (untuk menyembelih unta betina Allah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6056,
+        "surah_id": 91,
+        "ayah": 13,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+        "kitabah": "فَقَالَ لَهُمْ رَسُوْلُ اللّٰهِ نَاقَةَ اللّٰهِ وَسُقْيٰهَاۗ",
+        "latin": "Fa qāla lahum rasūlullāhi nāqatallāhi wa suqyāhā.",
+        "arabic_words": [
+            "فَقَالَ",
+            "لَهُمْ",
+            "رَسُوْلُ",
+            "اللّٰهِ",
+            "نَاقَةَ",
+            "اللّٰهِ",
+            "وَسُقْيٰهَاۗ"
+        ],
+        "translation": "Rasul Allah (Saleh) lalu berkata kepada mereka, “(Biarkanlah) unta betina Allah ini beserta minumannya.”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6057,
+        "surah_id": 91,
+        "ayah": 14,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+        "kitabah": "فَكَذَّبُوْهُ فَعَقَرُوْهَاۖ فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْۢبِهِمْ فَسَوّٰىهَاۖ",
+        "latin": "Fa każżabūhu fa ‘aqarūhā fa damdama ‘alaihim rabbuhum biżambihim fa sawwāhā.",
+        "arabic_words": [
+            "فَكَذَّبُوْهُ",
+            "فَعَقَرُوْهَاۖ",
+            "فَدَمْدَمَ",
+            "عَلَيْهِمْ",
+            "رَبُّهُمْ",
+            "بِذَنْۢبِهِمْ",
+            "فَسَوّٰىهَاۖ"
+        ],
+        "translation": "Namun, mereka kemudian mendustakannya (Saleh) dan menyembelih (unta betina) itu. Maka, Tuhan membinasakan mereka karena dosa-dosanya, lalu meratakan mereka (dengan tanah).",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6058,
+        "surah_id": 91,
+        "ayah": 15,
+        "page": 595,
+        "quarter_hizb": 60.25,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+        "kitabah": "وَلَا يَخَافُ عُقْبٰهَا ࣖ",
+        "latin": "Wa lā yakhāfu ‘uqbāhā.",
+        "arabic_words": [
+            "وَلَا",
+            "يَخَافُ",
+            "عُقْبٰهَا ࣖ"
+        ],
+        "translation": "Dia tidak takut terhadap akibatnya.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 91,
+            "arabic": "الشّمس",
+            "latin": "Asy-Syams",
+            "transliteration": "Asy-Syams",
+            "translation": "Matahari",
+            "num_ayah": 15,
+            "page": 595,
+            "location": "Makkiyah"
+        }
+    }
+]

@@ -1,0 +1,245 @@
+[
+    {
+        "id": 6091,
+        "surah_id": 94,
+        "ayah": 1,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+        "kitabah": "اَلَمْ نَشْرَحْ لَكَ صَدْرَكَۙ",
+        "latin": "Alam nasyraḥ laka ṣadrak(a).",
+        "arabic_words": [
+            "اَلَمْ",
+            "نَشْرَحْ",
+            "لَكَ",
+            "صَدْرَكَۙ"
+        ],
+        "translation": "Bukankah Kami telah melapangkan dadamu (Nabi Muhammad),",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6092,
+        "surah_id": 94,
+        "ayah": 2,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+        "kitabah": "وَوَضَعْنَا عَنْكَ وِزْرَكَۙ",
+        "latin": "Wa waḍa‘nā ‘anka wizrak(a).",
+        "arabic_words": [
+            "وَوَضَعْنَا",
+            "عَنْكَ",
+            "وِزْرَكَۙ"
+        ],
+        "translation": "meringankan beban (tugas-tugas kenabian) darimu",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6093,
+        "surah_id": 94,
+        "ayah": 3,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+        "kitabah": "الَّذِيْٓ اَنْقَضَ ظَهْرَكَۙ",
+        "latin": "Allażī anqaḍa ẓahrak(a).",
+        "arabic_words": [
+            "الَّذِيْٓ",
+            "اَنْقَضَ",
+            "ظَهْرَكَۙ"
+        ],
+        "translation": "yang memberatkan punggungmu,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6094,
+        "surah_id": 94,
+        "ayah": 4,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+        "kitabah": "وَرَفَعْنَا لَكَ ذِكْرَكَۗ",
+        "latin": "Wa rafa‘nā laka żikrak(a).",
+        "arabic_words": [
+            "وَرَفَعْنَا",
+            "لَكَ",
+            "ذِكْرَكَۗ"
+        ],
+        "translation": "dan meninggikan (derajat)-mu (dengan selalu) menyebut-nyebut (nama)-mu?",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6095,
+        "surah_id": 94,
+        "ayah": 5,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+        "kitabah": "فَاِنَّ مَعَ الْعُسْرِ يُسْرًاۙ",
+        "latin": "Fa'inna ma‘al-‘usri yusrā(n).",
+        "arabic_words": [
+            "فَاِنَّ",
+            "مَعَ",
+            "الْعُسْرِ",
+            "يُسْرًاۙ"
+        ],
+        "translation": "Maka, sesungguhnya beserta kesulitan ada kemudahan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6096,
+        "surah_id": 94,
+        "ayah": 6,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+        "kitabah": "اِنَّ مَعَ الْعُسْرِ يُسْرًاۗ",
+        "latin": "Inna ma‘al-‘usri yusrā(n).",
+        "arabic_words": [
+            "اِنَّ",
+            "مَعَ",
+            "الْعُسْرِ",
+            "يُسْرًاۗ"
+        ],
+        "translation": "Sesungguhnya beserta kesulitan ada kemudahan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6097,
+        "surah_id": 94,
+        "ayah": 7,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+        "kitabah": "فَاِذَا فَرَغْتَ فَانْصَبْۙ",
+        "latin": "Fa iżā faragta fanṣab.",
+        "arabic_words": [
+            "فَاِذَا",
+            "فَرَغْتَ",
+            "فَانْصَبْۙ"
+        ],
+        "translation": "Apabila engkau telah selesai (dengan suatu kebajikan), teruslah bekerja keras (untuk kebajikan yang lain)",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6098,
+        "surah_id": 94,
+        "ayah": 8,
+        "page": 596,
+        "quarter_hizb": 60.5,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+        "kitabah": "وَاِلٰى رَبِّكَ فَارْغَبْ ࣖ",
+        "latin": "Wa ilā rabbika fargab.",
+        "arabic_words": [
+            "وَاِلٰى",
+            "رَبِّكَ",
+            "فَارْغَبْ ࣖ"
+        ],
+        "translation": "dan hanya kepada Tuhanmu berharaplah!",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 94,
+            "arabic": "الشّرح",
+            "latin": "Asy-Syarḥ",
+            "transliteration": "Asy-Syarh",
+            "translation": "Pelapangan",
+            "num_ayah": 8,
+            "page": 596,
+            "location": "Makkiyah"
+        }
+    }
+]

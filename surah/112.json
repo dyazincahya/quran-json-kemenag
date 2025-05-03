@@ -1,0 +1,125 @@
+[
+    {
+        "id": 6222,
+        "surah_id": 112,
+        "ayah": 1,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+        "kitabah": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+        "latin": "Qul huwallāhu aḥad(un).",
+        "arabic_words": [
+            "قُلْ",
+            "هُوَ",
+            "اللّٰهُ",
+            "اَحَدٌۚ"
+        ],
+        "translation": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 112,
+            "arabic": " الاخلاص",
+            "latin": "Al-Ikhlāṣ",
+            "transliteration": "Al-Ikhlas",
+            "translation": "Ikhlas",
+            "num_ayah": 4,
+            "page": 604,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6223,
+        "surah_id": 112,
+        "ayah": 2,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "اَللّٰهُ الصَّمَدُۚ",
+        "kitabah": "اَللّٰهُ الصَّمَدُۚ",
+        "latin": "Allāhuṣ-ṣamad(u).",
+        "arabic_words": [
+            "اَللّٰهُ",
+            "الصَّمَدُۚ"
+        ],
+        "translation": "Allah tempat meminta segala sesuatu.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 112,
+            "arabic": " الاخلاص",
+            "latin": "Al-Ikhlāṣ",
+            "transliteration": "Al-Ikhlas",
+            "translation": "Ikhlas",
+            "num_ayah": 4,
+            "page": 604,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6224,
+        "surah_id": 112,
+        "ayah": 3,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+        "kitabah": "لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ",
+        "latin": "Lam yalid wa lam yūlad.",
+        "arabic_words": [
+            "لَمْ",
+            "يَلِدْ",
+            "وَلَمْ",
+            "يُوْلَدْۙ"
+        ],
+        "translation": "Dia tidak beranak dan tidak pula diperanakkan",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 112,
+            "arabic": " الاخلاص",
+            "latin": "Al-Ikhlāṣ",
+            "transliteration": "Al-Ikhlas",
+            "translation": "Ikhlas",
+            "num_ayah": 4,
+            "page": 604,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6225,
+        "surah_id": 112,
+        "ayah": 4,
+        "page": 604,
+        "quarter_hizb": 60.75,
+        "juz": 30,
+        "manzil": 7,
+        "arabic": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+        "kitabah": "وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
+        "latin": "Wa lam yakul lahū kufuwan aḥad(un).",
+        "arabic_words": [
+            "وَلَمْ",
+            "يَكُنْ",
+            "لَّهٗ",
+            "كُفُوًا",
+            "اَحَدٌ ࣖ"
+        ],
+        "translation": "serta tidak ada sesuatu pun yang setara dengan-Nya.”",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 112,
+            "arabic": " الاخلاص",
+            "latin": "Al-Ikhlāṣ",
+            "transliteration": "Al-Ikhlas",
+            "translation": "Ikhlas",
+            "num_ayah": 4,
+            "page": 604,
+            "location": "Makkiyah"
+        }
+    }
+]
