@@ -1,0 +1,221 @@
+[
+    {
+        "id": 1,
+        "surah_id": 1,
+        "ayah": 1,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "kitabah": "بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ",
+        "latin": "Bismillāhir-raḥmānir-raḥīm(i). ",
+        "arabic_words": [
+            "بِسْمِ",
+            "اللّٰهِ",
+            "الرَّحْمٰنِ",
+            "الرَّحِيْمِ"
+        ],
+        "translation": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang.",
+        "footnotes": null,
+        "updated_at": "2022-11-01T22:12:08.000Z",
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 2,
+        "surah_id": 1,
+        "ayah": 2,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+        "kitabah": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعٰلَمِيْنَۙ",
+        "latin": "Al-ḥamdu lillāhi rabbil-‘ālamīn(a). ",
+        "arabic_words": [
+            "اَلْحَمْدُ",
+            "لِلّٰهِ",
+            "رَبِّ",
+            "الْعٰلَمِيْنَۙ"
+        ],
+        "translation": "Segala puji bagi Allah, Tuhan1) semesta alam",
+        "footnotes": "1) Allah Swt. disebut rabb (Tuhan) seluruh alam karena Dialah yang telah menciptakan, memelihara, mendidik, mengatur, mengurus, memberi rezeki, dan sebagainya kepada semua makhluk-Nya. ",
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 3,
+        "surah_id": 1,
+        "ayah": 3,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+        "kitabah": "الرَّحْمٰنِ الرَّحِيْمِۙ",
+        "latin": "Ar-raḥmānir-raḥīm(i). ",
+        "arabic_words": [
+            "الرَّحْمٰنِ",
+            "الرَّحِيْمِۙ"
+        ],
+        "translation": "Yang Maha Pengasih lagi Maha Penyayang,",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 4,
+        "surah_id": 1,
+        "ayah": 4,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+        "kitabah": "مٰلِكِ يَوْمِ الدِّيْنِۗ",
+        "latin": "Māliki yaumid-dīn(i). ",
+        "arabic_words": [
+            "مٰلِكِ",
+            "يَوْمِ",
+            "الدِّيْنِۗ"
+        ],
+        "translation": "Pemilik hari Pembalasan.2)",
+        "footnotes": "2) Yaumid-dīn (hari Pembalasan) adalah hari ketika kelak manusia menerima balasan atas amal-amalnya yang baik dan yang buruk. Hari itu disebut juga yaumul-qiyāmah (hari Kiamat), yaumul-ḥisāb (hari Penghitungan), dan sebagainya.",
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 5,
+        "surah_id": 1,
+        "ayah": 5,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+        "kitabah": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَعِيْنُۗ",
+        "latin": "Iyyāka na‘budu wa iyyāka nasta‘īn(u), ",
+        "arabic_words": [
+            "اِيَّاكَ",
+            "نَعْبُدُ",
+            "وَاِيَّاكَ",
+            "نَسْتَعِيْنُۗ"
+        ],
+        "translation": "Hanya kepada Engkaulah kami menyembah dan hanya kepada Engkaulah kami memohon pertolongan.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 6,
+        "surah_id": 1,
+        "ayah": 6,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+        "kitabah": "اِهْدِنَا الصِّرَاطَ الْمُسْتَقِيْمَۙ",
+        "latin": "Ihdinaṣ-ṣirāṭal-mustaqīm(a). ",
+        "arabic_words": [
+            "اِهْدِنَا",
+            "الصِّرَاطَ",
+            "الْمُسْتَقِيْمَۙ"
+        ],
+        "translation": "Bimbinglah kami ke jalan yang lurus,3)",
+        "footnotes": "3) Jalan yang lurus adalah jalan hidup yang benar dan sesuai dengan ajaran Islam yang terkandung dalam Al-Qur’an dan hadis.",
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    },
+    {
+        "id": 7,
+        "surah_id": 1,
+        "ayah": 7,
+        "page": 1,
+        "quarter_hizb": null,
+        "juz": 1,
+        "manzil": 1,
+        "arabic": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+        "kitabah": "صِرَاطَ الَّذِيْنَ اَنْعَمْتَ عَلَيْهِمْ ەۙ غَيْرِ الْمَغْضُوْبِ عَلَيْهِمْ وَلَا الضَّاۤلِّيْنَ ࣖ",
+        "latin": "Ṣirāṭal-lażīna an‘amta ‘alaihim, gairil-magḍūbi ‘alaihim wa laḍ-ḍāllīn(a). ",
+        "arabic_words": [
+            "صِرَاطَ",
+            "الَّذِيْنَ",
+            "اَنْعَمْتَ",
+            "عَلَيْهِمْ",
+            "ەۙ",
+            "غَيْرِ",
+            "الْمَغْضُوْبِ",
+            "عَلَيْهِمْ",
+            "وَلَا",
+            "الضَّاۤلِّيْنَ ࣖ"
+        ],
+        "translation": "(yaitu) jalan orang-orang yang telah Engkau beri nikmat, bukan (jalan) mereka yang dimurkai dan bukan (pula jalan) orang-orang yang sesat.",
+        "footnotes": null,
+        "updated_at": null,
+        "surah": {
+            "id": 1,
+            "arabic": " الفاتحة",
+            "latin": "Al-Fātiḥah ",
+            "transliteration": "Al-Fatihah",
+            "translation": "Pembuka",
+            "num_ayah": 7,
+            "page": 1,
+            "location": "Makkiyah"
+        }
+    }
+]
