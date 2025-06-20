@@ -22,3 +22,12 @@ Run the `fetch_quran_ayah.php` file to fetch the ayah data for each surah.
 php fetch_quran_ayah.php
 ```
 
+#### Fetch Audio
+Run the `fetch_quran_audio.php` file to fetch the audio date per ayah for each surah.
+``` bash
+# run this command on CLI
+php fetch_quran_audio.php
+```
+
+#### Quran Audio per Ayah
+https://versebyversequran.com
