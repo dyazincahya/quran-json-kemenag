@@ -25,7 +25,7 @@ php fetch_quran_ayah.php
 #### Fetch Audio
 Run the `fetch_quran_audio.php` file to fetch the audio date per ayah for each surah.
 
-> Audio source: https://media.qurankemenag.net/audio/Abu_Bakr_Ash-Shaatree_aac64/
+> Audio source https://media.qurankemenag.net/audio/Abu_Bakr_Ash-Shaatree_aac64/ actually from versebyversequran.com
 
 ``` bash
 # run this command on CLI
